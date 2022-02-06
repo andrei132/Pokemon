@@ -1,0 +1,29 @@
+<?xml version = "1.0"?>
+<Game ID = "8">
+    <Coach>
+        <Name>May</Name>
+        <Age>20</Age>
+        <Pokemons>
+            <Pokemon>Squirtle</Pokemon>
+            <Pokemon>Bulbasaur</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Sword</Item>
+            <Item>Vest</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Serena</Name>
+        <Age>28</Age>
+        <Pokemons>
+            <Pokemon>Charmander</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+            <Pokemon>Eevee</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Wand</Item>
+            <Item>Shield</Item>
+        </Items>
+    </Coach>
+</Game>

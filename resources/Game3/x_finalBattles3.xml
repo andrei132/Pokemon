@@ -1,0 +1,63 @@
+<?xml version = "1.0"?>
+<Game id = "3">
+    <Battle nr = "0">
+        <Coach>
+            <Name>Todd</Name>
+            <PokemonToFight>Charmander</PokemonToFight>
+            <ItemsGive>
+                <Item>Sword</Item>
+                <Item>Vest</Item>
+                <Item>Vitamins</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Zoye</Name>
+            <PokemonToFight>Eevee</PokemonToFight>
+            <ItemsGive>
+                <Item>Vest</Item>
+                <Item>Wand</Item>
+                <Item>Cape</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "1">
+        <Coach>
+            <Name>Todd</Name>
+            <PokemonToFight>Pikachu</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Sword</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Zoye</Name>
+            <PokemonToFight>Vulpix</PokemonToFight>
+            <ItemsGive>
+                <Item>Vest</Item>
+                <Item>Wand</Item>
+                <Item>Cape</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "2">
+        <Coach>
+            <Name>Todd</Name>
+            <PokemonToFight>Meowth</PokemonToFight>
+            <ItemsGive>
+                <Item>Sword</Item>
+                <Item>Vest</Item>
+                <Item>Vitamins</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Zoye</Name>
+            <PokemonToFight>Meowth</PokemonToFight>
+            <ItemsGive>
+                <Item>Vest</Item>
+                <Item>Wand</Item>
+                <Item>Cape</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+</Game>

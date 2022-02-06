@@ -1,0 +1,63 @@
+<?xml version = "1.0"?>
+<Game id = "5">
+    <Battle nr = "0">
+        <Coach>
+            <Name>Cilan</Name>
+            <PokemonToFight>Bulbasaur</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Sword</Item>
+                <Item>Wand</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Brock</Name>
+            <PokemonToFight>Jigglypuff</PokemonToFight>
+            <ItemsGive>
+                <Item>Cape</Item>
+                <Item>Vest</Item>
+                <Item>Sword</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "1">
+        <Coach>
+            <Name>Cilan</Name>
+            <PokemonToFight>Eevee</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Sword</Item>
+                <Item>Wand</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Brock</Name>
+            <PokemonToFight>Charmander</PokemonToFight>
+            <ItemsGive>
+                <Item>Cape</Item>
+                <Item>Vest</Item>
+                <Item>Sword</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "2">
+        <Coach>
+            <Name>Cilan</Name>
+            <PokemonToFight>Vulpix</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Sword</Item>
+                <Item>Wand</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Brock</Name>
+            <PokemonToFight>Psyduck</PokemonToFight>
+            <ItemsGive>
+                <Item>Cape</Item>
+                <Item>Vest</Item>
+                <Item>Sword</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+</Game>

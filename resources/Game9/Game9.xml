@@ -1,0 +1,33 @@
+<?xml version = "1.0"?>
+<Game ID = "9">
+    <Coach>
+        <Name>David</Name>
+        <Age>20</Age>
+        <Pokemons>
+            <Pokemon>Bulbasaur</Pokemon>
+            <Pokemon>Meowth</Pokemon>
+            <Pokemon>Eevee</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>ChristmasTree</Item>
+            <Item>Sword</Item>
+            <Item>Vest</Item>
+            <Item>Cape</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Liviu</Name>
+        <Age>20</Age>
+        <Pokemons>
+            <Pokemon>Jigglypuff</Pokemon>
+            <Pokemon>Charmander</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Wand</Item>
+            <Item>Shield</Item>
+            <Item>Sword</Item>
+            <Item>Vest</Item>
+        </Items>
+    </Coach>
+</Game>

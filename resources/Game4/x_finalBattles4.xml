@@ -1,0 +1,49 @@
+<?xml version = "1.0"?>
+<Game id = "4">
+    <Battle nr = "0">
+        <Coach>
+            <Name>Paul</Name>
+            <PokemonToFight>Psyduck</PokemonToFight>
+            <ItemsGive>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Serena</Name>
+            <PokemonToFight>Eevee</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Wand</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "1">
+        <Coach>
+            <Name>Paul</Name>
+            <PokemonToFight>Jigglypuff</PokemonToFight>
+            <ItemsGive>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Serena</Name>
+            <PokemonToFight>Meowth</PokemonToFight>
+            <ItemsGive>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "2">
+        <Coach>
+            <Name>Paul</Name>
+            <PokemonToFight>Snorlax</PokemonToFight>
+            <ItemsGive>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Serena</Name>
+            <PokemonToFight>Bulbasaur</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Wand</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+</Game>

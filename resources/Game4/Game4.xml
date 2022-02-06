@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<Game ID = "4">
+    <Coach>
+        <Name>Paul</Name>
+        <Age>27</Age>
+        <Pokemons>
+            <Pokemon>Psyduck</Pokemon>
+            <Pokemon>Jigglypuff</Pokemon>
+            <Pokemon>Snorlax</Pokemon>
+        </Pokemons>
+        <Items>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Serena</Name>
+        <Age>23</Age>
+        <Pokemons>
+            <Pokemon>Eevee</Pokemon>
+            <Pokemon>Meowth</Pokemon>
+            <Pokemon>Bulbasaur</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Vitamins</Item>
+            <Item>Wand</Item>
+        </Items>
+    </Coach>
+</Game>

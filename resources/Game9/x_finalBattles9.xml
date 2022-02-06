@@ -1,0 +1,62 @@
+<?xml version = "1.0"?>
+<Game id = "9">
+    <Battle nr = "0">
+        <Coach>
+            <Name>David</Name>
+            <PokemonToFight>Bulbasaur</PokemonToFight>
+            <ItemsGive>
+                <Item>ChristmasTree</Item>
+                <Item>Sword</Item>
+                <Item>Vest</Item>>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Liviu</Name>
+            <PokemonToFight>Jigglypuff</PokemonToFight>
+            <ItemsGive>
+                <Item>Wand</Item>
+                <Item>Shield</Item>
+                <Item>Sword</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "1">
+        <Coach>
+            <Name>David</Name>
+            <PokemonToFight>Meowth</PokemonToFight>
+            <ItemsGive>
+                <Item>ChristmasTree</Item>
+                <Item>Vest</Item>
+                <Item>Cape</Item>>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Liviu</Name>
+            <PokemonToFight>Charmander</PokemonToFight>
+            <ItemsGive>
+                <Item>Shield</Item>
+                <Item>Sword</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "2">
+        <Coach>
+            <Name>David</Name>
+            <PokemonToFight>Eevee</PokemonToFight>
+            <ItemsGive>
+                <Item>ChristmasTree</Item>
+                <Item>Sword</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Liviu</Name>
+            <PokemonToFight>Vulpix</PokemonToFight>
+            <ItemsGive>
+                <Item>Sword</Item>
+                <Item>Wand</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+</Game>

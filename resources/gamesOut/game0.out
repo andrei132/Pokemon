@@ -1,0 +1,1195 @@
+Vulpix challenged Neutrel2
+Vulpix have: [Sword{Attack +3}, Vest{HP +10}]
+Neutrel2 have: null
+Vulpix HP: 46 Normal Attack: 8 Special Attack: null Defence: 2 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Vulpix HP: 44(Damage received: 2)
+	+Neutrel2 HP: 12(Damage received: 8)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Vulpix HP: 44(Damage received: 0)
+	+Neutrel2 HP: 5(Damage received: 7)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 44(Damage received: 0)
+	+Neutrel2 HP: 3(Damage received: 2)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [4] Ability2 [7]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Vulpix HP: 42(Damage received: 2)
+	+Neutrel2 HP: -4(Damage received: 7)
+
+		+++ Result: Win Vulpix +++
+
+Squirtle challenged Neutrel2
+Squirtle have: [Shield{Defence +2, Special Defence +2}]
+Neutrel2 have: null
+Squirtle HP: 60 Normal Attack: null Special Attack: 3 Defence: 7 Special Defence: 3 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 16(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 2)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 12(Damage received: 2)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 10(Damage received: 2)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 6(Damage received: 4)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 2)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 2(Damage received: 2)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 0(Damage received: 2)
+
+		+++ Result: Win Squirtle +++
+
+Vulpix challenged Psyduck
+Vulpix have: [Sword{Attack +3}]
+Psyduck have: [Shield{Defence +2, Special Defence +2}]
+Vulpix HP: 37 Normal Attack: 9 Special Attack: null Defence: 3 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Psyduck HP: 43 Normal Attack: 3 Special Attack: null Defence: 5 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with ABILITY1
+	+Vulpix HP: 35(Damage received: 2)
+	+Psyduck HP: 39(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Vulpix attack with ABILITY2 | Psyduck attack with NORMAL_ATTACK
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 35(Damage received: 0)
+	+Psyduck HP: 37(Damage received: 2)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [7]
+* CoolDown Psyduck: Ability1 [3] Ability2 [0]
+Vulpix attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 35(Damage received: 0)
+	+Psyduck HP: 29(Damage received: 8)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [6]
+* CoolDown Psyduck: Ability1 [2] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Psyduck is stunned
+	+Vulpix HP: 35(Damage received: 0)
+	+Psyduck HP: 25(Damage received: 4)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [5]
+* CoolDown Psyduck: Ability1 [1] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with ABILITY2
+	+Vulpix HP: 33(Damage received: 2)
+	+Psyduck HP: 21(Damage received: 4)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Vulpix: Ability1 [4] Ability2 [4]
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+Vulpix is stunned | Psyduck attack with ABILITY1
+	+Vulpix HP: 31(Damage received: 2)
+	+Psyduck HP: 21(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Vulpix: Ability1 [3] Ability2 [3]
+* CoolDown Psyduck: Ability1 [4] Ability2 [4]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: 17(Damage received: 4)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Vulpix: Ability1 [2] Ability2 [2]
+* CoolDown Psyduck: Ability1 [3] Ability2 [3]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: 13(Damage received: 4)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Vulpix: Ability1 [1] Ability2 [1]
+* CoolDown Psyduck: Ability1 [2] Ability2 [2]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: 9(Damage received: 4)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [1]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: 5(Damage received: 4)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Psyduck attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: 3(Damage received: 2)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [7]
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+Vulpix is stunned | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: 3(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [6]
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+Vulpix attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 31(Damage received: 0)
+	+Psyduck HP: -5(Damage received: 8)
+
+		+++ Result: Win Vulpix +++
+
+Bulbasaur challenged Squirtle
+Bulbasaur have: [Sword{Attack +3}, Vest{HP +10}]
+Squirtle have: [Sword{Attack +3}]
+Bulbasaur HP: 52 Normal Attack: null Special Attack: 5 Defence: 3 Special Defence: 5 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Squirtle HP: 61 Normal Attack: null Special Attack: 4 Defence: 6 Special Defence: 4 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Squirtle attack with ABILITY2
+	+Bulbasaur HP: 50(Damage received: 2)
+	+Squirtle HP: 55(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Bulbasaur is stunned | Squirtle attack with ABILITY1
+	+Bulbasaur HP: 46(Damage received: 4)
+	+Squirtle HP: 55(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 43(Damage received: 3)
+	+Squirtle HP: 55(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 40(Damage received: 3)
+	+Squirtle HP: 55(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [0]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 37(Damage received: 3)
+	+Squirtle HP: 50(Damage received: 5)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Squirtle attack with ABILITY1
+	+Bulbasaur HP: 33(Damage received: 4)
+	+Squirtle HP: 44(Damage received: 6)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [2]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with ABILITY2
+	+Bulbasaur HP: 31(Damage received: 2)
+	+Squirtle HP: 44(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [1]
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+Bulbasaur is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 28(Damage received: 3)
+	+Squirtle HP: 44(Damage received: 0)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+Bulbasaur attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 25(Damage received: 3)
+	+Squirtle HP: 39(Damage received: 5)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with ABILITY2
+	+Bulbasaur HP: 23(Damage received: 2)
+	+Squirtle HP: 39(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Bulbasaur is stunned | Squirtle attack with ABILITY1
+	+Bulbasaur HP: 19(Damage received: 4)
+	+Squirtle HP: 39(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 16(Damage received: 3)
+	+Squirtle HP: 39(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 13(Damage received: 3)
+	+Squirtle HP: 34(Damage received: 5)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 10(Damage received: 3)
+	+Squirtle HP: 28(Damage received: 6)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with ABILITY2
+	+Bulbasaur HP: 8(Damage received: 2)
+	+Squirtle HP: 28(Damage received: 0)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Bulbasaur is stunned | Squirtle attack with ABILITY1
+	+Bulbasaur HP: 4(Damage received: 4)
+	+Squirtle HP: 28(Damage received: 0)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Bulbasaur attack with SPECIAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: 1(Damage received: 3)
+	+Squirtle HP: 28(Damage received: 0)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Bulbasaur HP: -2(Damage received: 3)
+	+Squirtle HP: 23(Damage received: 5)
+
+		+++ Result: Win Squirtle +++
+
+Snorlax challenged Psyduck
+Snorlax have: [Sword{Attack +3}]
+Psyduck have: [Shield{Defence +2, Special Defence +2}]
+Snorlax HP: 62 Normal Attack: 6 Special Attack: null Defence: 6 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=5} Ability{damage=0, stun=false, dodge=true, coolDown=5}
+Psyduck HP: 43 Normal Attack: 3 Special Attack: null Defence: 5 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY1
+	+Snorlax HP: 60(Damage received: 2)
+	+Psyduck HP: 42(Damage received: 1)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Snorlax attack with ABILITY2 | Psyduck attack with ABILITY2
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 60(Damage received: 0)
+	+Psyduck HP: 42(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [5]
+* CoolDown Psyduck: Ability1 [3] Ability2 [5]
+Snorlax is stunned | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 60(Damage received: 0)
+	+Psyduck HP: 42(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [4]
+* CoolDown Psyduck: Ability1 [2] Ability2 [4]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 60(Damage received: 0)
+	+Psyduck HP: 41(Damage received: 1)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [3]
+* CoolDown Psyduck: Ability1 [1] Ability2 [3]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 60(Damage received: 0)
+	+Psyduck HP: 40(Damage received: 1)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [2]
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+Snorlax attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 60(Damage received: 0)
+	+Psyduck HP: 36(Damage received: 4)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [1]
+* CoolDown Psyduck: Ability1 [0] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Psyduck is stunned
+	+Snorlax HP: 60(Damage received: 0)
+	+Psyduck HP: 35(Damage received: 1)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY2
+	+Snorlax HP: 58(Damage received: 2)
+	+Psyduck HP: 34(Damage received: 1)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+Snorlax is stunned | Psyduck attack with ABILITY1
+	+Snorlax HP: 56(Damage received: 2)
+	+Psyduck HP: 34(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [0]
+* CoolDown Psyduck: Ability1 [4] Ability2 [4]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 56(Damage received: 0)
+	+Psyduck HP: 33(Damage received: 1)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [0]
+* CoolDown Psyduck: Ability1 [3] Ability2 [3]
+Snorlax attack with ABILITY2 | Psyduck attack with NORMAL_ATTACK
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 56(Damage received: 0)
+	+Psyduck HP: 33(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [5]
+* CoolDown Psyduck: Ability1 [2] Ability2 [2]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 56(Damage received: 0)
+	+Psyduck HP: 32(Damage received: 1)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [4]
+* CoolDown Psyduck: Ability1 [1] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 56(Damage received: 0)
+	+Psyduck HP: 31(Damage received: 1)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [3]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Snorlax attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 56(Damage received: 0)
+	+Psyduck HP: 27(Damage received: 4)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [2]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck is stunned
+	+Snorlax HP: 56(Damage received: 0)
+	+Psyduck HP: 26(Damage received: 1)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [1]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY1
+	+Snorlax HP: 54(Damage received: 2)
+	+Psyduck HP: 25(Damage received: 1)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [0]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY2
+	+Snorlax HP: 52(Damage received: 2)
+	+Psyduck HP: 24(Damage received: 1)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [0]
+* CoolDown Psyduck: Ability1 [3] Ability2 [5]
+Snorlax is stunned | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 52(Damage received: 0)
+	+Psyduck HP: 24(Damage received: 0)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [0]
+* CoolDown Psyduck: Ability1 [2] Ability2 [4]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 52(Damage received: 0)
+	+Psyduck HP: 23(Damage received: 1)
+
+=====================!!! Round 20 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [3]
+Snorlax attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 52(Damage received: 0)
+	+Psyduck HP: 19(Damage received: 4)
+
+=====================!!! Round 21 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+Snorlax attack with ABILITY2 | Psyduck is stunned
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 52(Damage received: 0)
+	+Psyduck HP: 19(Damage received: 0)
+
+=====================!!! Round 22 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [5]
+* CoolDown Psyduck: Ability1 [0] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY1
+	+Snorlax HP: 50(Damage received: 2)
+	+Psyduck HP: 18(Damage received: 1)
+
+=====================!!! Round 23 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [4]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 50(Damage received: 0)
+	+Psyduck HP: 17(Damage received: 1)
+
+=====================!!! Round 24 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [3]
+* CoolDown Psyduck: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY2
+	+Snorlax HP: 48(Damage received: 2)
+	+Psyduck HP: 16(Damage received: 1)
+
+=====================!!! Round 25 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [2]
+* CoolDown Psyduck: Ability1 [2] Ability2 [5]
+Snorlax is stunned | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 48(Damage received: 0)
+	+Psyduck HP: 16(Damage received: 0)
+
+=====================!!! Round 26 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Psyduck: Ability1 [1] Ability2 [4]
+Snorlax attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 48(Damage received: 0)
+	+Psyduck HP: 12(Damage received: 4)
+
+=====================!!! Round 27 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [3]
+Snorlax attack with ABILITY2 | Psyduck is stunned
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 48(Damage received: 0)
+	+Psyduck HP: 12(Damage received: 0)
+
+=====================!!! Round 28 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [5]
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY1
+	+Snorlax HP: 46(Damage received: 2)
+	+Psyduck HP: 11(Damage received: 1)
+
+=====================!!! Round 29 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [4]
+* CoolDown Psyduck: Ability1 [4] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 46(Damage received: 0)
+	+Psyduck HP: 10(Damage received: 1)
+
+=====================!!! Round 30 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [3]
+* CoolDown Psyduck: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 46(Damage received: 0)
+	+Psyduck HP: 9(Damage received: 1)
+
+=====================!!! Round 31 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [2]
+* CoolDown Psyduck: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 46(Damage received: 0)
+	+Psyduck HP: 8(Damage received: 1)
+
+=====================!!! Round 32 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Psyduck: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with ABILITY2
+	+Snorlax HP: 44(Damage received: 2)
+	+Psyduck HP: 7(Damage received: 1)
+
+=====================!!! Round 33 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+Snorlax is stunned | Psyduck attack with ABILITY1
+	+Snorlax HP: 42(Damage received: 2)
+	+Psyduck HP: 7(Damage received: 0)
+
+=====================!!! Round 34 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [4] Ability2 [4]
+Snorlax attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 42(Damage received: 0)
+	+Psyduck HP: 3(Damage received: 4)
+
+=====================!!! Round 35 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Psyduck: Ability1 [3] Ability2 [3]
+Snorlax attack with NORMAL_ATTACK | Psyduck is stunned
+	+Snorlax HP: 42(Damage received: 0)
+	+Psyduck HP: 2(Damage received: 1)
+
+=====================!!! Round 36 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Psyduck: Ability1 [2] Ability2 [2]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 42(Damage received: 0)
+	+Psyduck HP: 1(Damage received: 1)
+
+=====================!!! Round 37 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Snorlax HP: 42(Damage received: 0)
+	+Psyduck HP: 0(Damage received: 1)
+
+		+++ Result: Win Snorlax +++
+
+Vulpix challenged Charmander
+Vulpix have: [Sword{Attack +3}]
+Charmander have: [Shield{Defence +2, Special Defence +2}]
+Vulpix HP: 38 Normal Attack: 10 Special Attack: null Defence: 4 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Charmander HP: 50 Normal Attack: 4 Special Attack: null Defence: 5 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Charmander attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 38(Damage received: 0)
+	+Charmander HP: 48(Damage received: 2)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [7]
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with ABILITY1
+	+Vulpix HP: 34(Damage received: 4)
+	+Charmander HP: 43(Damage received: 5)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [6]
+* CoolDown Charmander: Ability1 [4] Ability2 [5]
+Vulpix is stunned | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 43(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [5]
+* CoolDown Charmander: Ability1 [3] Ability2 [4]
+Vulpix attack with ABILITY1 | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 35(Damage received: 8)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [4]
+* CoolDown Charmander: Ability1 [2] Ability2 [3]
+Vulpix attack with NORMAL_ATTACK | Charmander is stunned
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 30(Damage received: 5)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [3]
+* CoolDown Charmander: Ability1 [1] Ability2 [2]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 25(Damage received: 5)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Vulpix: Ability1 [4] Ability2 [2]
+* CoolDown Charmander: Ability1 [0] Ability2 [1]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 20(Damage received: 5)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Vulpix: Ability1 [3] Ability2 [1]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 15(Damage received: 5)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Vulpix: Ability1 [2] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 10(Damage received: 5)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Vulpix: Ability1 [1] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Charmander attack with ABILITY1
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 34(Damage received: 0)
+	+Charmander HP: 8(Damage received: 2)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [7]
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+Vulpix is stunned | Charmander attack with ABILITY2
+	+Vulpix HP: 27(Damage received: 7)
+	+Charmander HP: 8(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [6]
+* CoolDown Charmander: Ability1 [3] Ability2 [6]
+Vulpix attack with ABILITY1 | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 27(Damage received: 0)
+	+Charmander HP: 0(Damage received: 8)
+
+		+++ Result: Win Vulpix +++
+
+Snorlax challenged Squirtle
+Snorlax have: [Sword{Attack +3}]
+Squirtle have: [Sword{Attack +3}]
+Snorlax HP: 63 Normal Attack: 7 Special Attack: null Defence: 7 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=5} Ability{damage=0, stun=false, dodge=true, coolDown=5}
+Squirtle HP: 62 Normal Attack: null Special Attack: 5 Defence: 7 Special Defence: 5 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with ABILITY1 | Squirtle attack with ABILITY2
+	+Snorlax HP: 61(Damage received: 2)
+	+Squirtle HP: 58(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle is stunned
+	+Snorlax HP: 61(Damage received: 0)
+	+Squirtle HP: 58(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Snorlax attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 61(Damage received: 0)
+	+Squirtle HP: 58(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [5]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY1
+	+Snorlax HP: 57(Damage received: 4)
+	+Squirtle HP: 58(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [4]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 57(Damage received: 0)
+	+Squirtle HP: 58(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [3]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 57(Damage received: 0)
+	+Squirtle HP: 58(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 57(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 4)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle is stunned
+	+Snorlax HP: 57(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 55(Damage received: 2)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 55(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Snorlax attack with ABILITY2 | Squirtle attack with ABILITY1
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 55(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [5]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 53(Damage received: 2)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [4]
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+Snorlax is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 53(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [3]
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 53(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 53(Damage received: 0)
+	+Squirtle HP: 54(Damage received: 0)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 53(Damage received: 0)
+	+Squirtle HP: 50(Damage received: 4)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with ABILITY2 | Squirtle is stunned
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 53(Damage received: 0)
+	+Squirtle HP: 50(Damage received: 0)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [5]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 51(Damage received: 2)
+	+Squirtle HP: 50(Damage received: 0)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with ABILITY1
+	+Snorlax HP: 47(Damage received: 4)
+	+Squirtle HP: 50(Damage received: 0)
+
+=====================!!! Round 20 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [3]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 47(Damage received: 0)
+	+Squirtle HP: 50(Damage received: 0)
+
+=====================!!! Round 21 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [2]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 47(Damage received: 0)
+	+Squirtle HP: 50(Damage received: 0)
+
+=====================!!! Round 22 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 47(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 4)
+
+=====================!!! Round 23 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with ABILITY2 | Squirtle is stunned
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 47(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 24 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [5]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 45(Damage received: 2)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 25 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 45(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 26 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 45(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 27 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY1
+	+Snorlax HP: 41(Damage received: 4)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 28 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 41(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 29 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 41(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 30 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 39(Damage received: 2)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 31 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with ABILITY1
+	+Snorlax HP: 35(Damage received: 4)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 32 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Snorlax attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 35(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 0)
+
+=====================!!! Round 33 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [5]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 35(Damage received: 0)
+	+Squirtle HP: 42(Damage received: 4)
+
+=====================!!! Round 34 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [4]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle is stunned
+	+Snorlax HP: 35(Damage received: 0)
+	+Squirtle HP: 42(Damage received: 0)
+
+=====================!!! Round 35 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 35(Damage received: 0)
+	+Squirtle HP: 42(Damage received: 0)
+
+=====================!!! Round 36 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY1
+	+Snorlax HP: 31(Damage received: 4)
+	+Squirtle HP: 42(Damage received: 0)
+
+=====================!!! Round 37 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [1]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 31(Damage received: 0)
+	+Squirtle HP: 42(Damage received: 0)
+
+=====================!!! Round 38 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with ABILITY2 | Squirtle attack with ABILITY2
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 31(Damage received: 0)
+	+Squirtle HP: 42(Damage received: 0)
+
+=====================!!! Round 39 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [5]
+* CoolDown Squirtle: Ability1 [1] Ability2 [2]
+Snorlax is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 31(Damage received: 0)
+	+Squirtle HP: 42(Damage received: 0)
+
+=====================!!! Round 40 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Snorlax attack with ABILITY1 | Squirtle attack with ABILITY1
+	+Snorlax HP: 27(Damage received: 4)
+	+Squirtle HP: 38(Damage received: 4)
+
+=====================!!! Round 41 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [3]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle is stunned
+	+Snorlax HP: 27(Damage received: 0)
+	+Squirtle HP: 38(Damage received: 0)
+
+=====================!!! Round 42 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [2]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 27(Damage received: 0)
+	+Squirtle HP: 38(Damage received: 0)
+
+=====================!!! Round 43 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [1]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 25(Damage received: 2)
+	+Squirtle HP: 38(Damage received: 0)
+
+=====================!!! Round 44 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with ABILITY1
+	+Snorlax HP: 21(Damage received: 4)
+	+Squirtle HP: 38(Damage received: 0)
+
+=====================!!! Round 45 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 21(Damage received: 0)
+	+Squirtle HP: 38(Damage received: 0)
+
+=====================!!! Round 46 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 21(Damage received: 0)
+	+Squirtle HP: 34(Damage received: 4)
+
+=====================!!! Round 47 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle is stunned
+	+Snorlax HP: 21(Damage received: 0)
+	+Squirtle HP: 34(Damage received: 0)
+
+=====================!!! Round 48 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with ABILITY2 | Squirtle attack with ABILITY1
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 21(Damage received: 0)
+	+Squirtle HP: 34(Damage received: 0)
+
+=====================!!! Round 49 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [5]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 21(Damage received: 0)
+	+Squirtle HP: 34(Damage received: 0)
+
+=====================!!! Round 50 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [4]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 21(Damage received: 0)
+	+Squirtle HP: 34(Damage received: 0)
+
+=====================!!! Round 51 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [3]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 19(Damage received: 2)
+	+Squirtle HP: 34(Damage received: 0)
+
+=====================!!! Round 52 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 19(Damage received: 0)
+	+Squirtle HP: 34(Damage received: 0)
+
+=====================!!! Round 53 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 19(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 4)
+
+=====================!!! Round 54 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle is stunned
+	+Snorlax HP: 19(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 55 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 17(Damage received: 2)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 56 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with ABILITY1
+	+Snorlax HP: 13(Damage received: 4)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 57 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Snorlax attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 13(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 58 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [5]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 13(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 59 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [4]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 13(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 60 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 13(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 61 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 11(Damage received: 2)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 62 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with ABILITY1
+	+Snorlax HP: 7(Damage received: 4)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 63 !!!=====================
+* CoolDown Snorlax: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Snorlax attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Snorlax HP: 7(Damage received: 0)
+	+Squirtle HP: 26(Damage received: 4)
+
+=====================!!! Round 64 !!!=====================
+* CoolDown Snorlax: Ability1 [5] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle is stunned
+	+Snorlax HP: 7(Damage received: 0)
+	+Squirtle HP: 26(Damage received: 0)
+
+=====================!!! Round 65 !!!=====================
+* CoolDown Snorlax: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: 5(Damage received: 2)
+	+Squirtle HP: 26(Damage received: 0)
+
+=====================!!! Round 66 !!!=====================
+* CoolDown Snorlax: Ability1 [3] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Snorlax is stunned | Squirtle attack with ABILITY1
+	+Snorlax HP: 1(Damage received: 4)
+	+Squirtle HP: 26(Damage received: 0)
+
+=====================!!! Round 67 !!!=====================
+* CoolDown Snorlax: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Snorlax attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+!! Snorlax has dodged attack !!
+	+Snorlax HP: 1(Damage received: 0)
+	+Squirtle HP: 26(Damage received: 0)
+
+=====================!!! Round 68 !!!=====================
+* CoolDown Snorlax: Ability1 [1] Ability2 [5]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Snorlax attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Snorlax HP: -1(Damage received: 2)
+	+Squirtle HP: 26(Damage received: 0)
+
+		+++ Result: Win Squirtle +++
+
+Winner of all adventure is: Max with pokemon: Squirtle

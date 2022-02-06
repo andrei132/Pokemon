@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+<Game ID = "1">
+    <Coach>
+        <Name>Ash</Name>
+        <Age>16</Age>
+        <Pokemons>
+            <Pokemon>Pikachu</Pokemon>
+            <Pokemon>Charmander</Pokemon>
+            <Pokemon>Eevee</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Cape</Item>
+            <Item>Wand</Item>
+            <Item>Vest</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Bonnie</Name>
+        <Age>17</Age>
+        <Pokemons>
+            <Pokemon>Psyduck</Pokemon>
+            <Pokemon>Meowth</Pokemon>
+            <Pokemon>Snorlax</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Sword</Item>
+            <Item>Shield</Item>
+            <Item>ChristmasTree</Item>
+            <Item>Vitamins</Item>
+        </Items>
+    </Coach>
+</Game>

@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+<Game ID = "6">
+    <Coach>
+        <Name>Jessie</Name>
+        <Age>20</Age>
+        <Pokemons>
+            <Pokemon>Meowth</Pokemon>
+            <Pokemon>Pikachu</Pokemon>
+            <Pokemon>Psyduck</Pokemon>
+        </Pokemons>
+        <Items>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Iris</Name>
+        <Age>17</Age>
+        <Pokemons>
+            <Pokemon>Eevee</Pokemon>
+            <Pokemon>Snorlax</Pokemon>
+            <Pokemon>Meowth</Pokemon>
+        </Pokemons>
+        <Items>
+        </Items>
+    </Coach>
+</Game>

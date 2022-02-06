@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<Game ID = "2">
+    <Coach>
+        <Name>Gray</Name>
+        <Age>20</Age>
+        <Pokemons>
+            <Pokemon>Jigglypuff</Pokemon>
+            <Pokemon>Charmander</Pokemon>
+            <Pokemon>Psyduck</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>ChristmasTree</Item>
+            <Item>Sword</Item>
+            <Item>Vest</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Dawn</Name>
+        <Age>17</Age>
+        <Pokemons>
+            <Pokemon>Bulbasaur</Pokemon>
+            <Pokemon>Squirtle</Pokemon>
+            <Pokemon>Eevee</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Wand</Item>
+            <Item>Shield</Item>
+            <Item>Sword</Item>
+        </Items>
+    </Coach>
+</Game>

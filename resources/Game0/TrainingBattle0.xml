@@ -1,0 +1,36 @@
+<?xml version = "1.0"?>
+<Game id = "0">
+    <Battle nr = "0">
+        <Coach>
+            <Name>Ash</Name>
+            <PokemonToFight>Vulpix</PokemonToFight>
+            <ItemsGive>
+                <Item>Sword</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Max</Name>
+            <PokemonToFight>Squirtle</PokemonToFight>
+            <ItemsGive>
+                <Item>Shield</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "1">
+        <Coach>
+            <Name>Ash</Name>
+            <PokemonToFight>Vulpix</PokemonToFight>
+            <ItemsGive>
+                <Item>Sword</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Max</Name>
+            <PokemonToFight>Psyduck</PokemonToFight>
+            <ItemsGive>
+                <Item>Shield</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+</Game>

@@ -1,0 +1,1657 @@
+Charmander challenged Neutrel1
+Charmander have: [Sword{Attack +3}, Vest{HP +10}]
+Neutrel1 have: null
+Charmander HP: 60 Normal Attack: 7 Special Attack: null Defence: 3 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Charmander HP: 60(Damage received: 0)
+	+Neutrel1 HP: 4(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Charmander HP: 60(Damage received: 0)
+	+Neutrel1 HP: -3(Damage received: 7)
+
+		+++ Result: Win Charmander +++
+
+Eevee challenged Neutrel1
+Eevee have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel1 have: null
+Eevee HP: 49 Normal Attack: null Special Attack: 7 Defence: 3 Special Defence: 7 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Eevee HP: 49(Damage received: 0)
+	+Neutrel1 HP: 4(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Eevee HP: 49(Damage received: 0)
+	+Neutrel1 HP: -2(Damage received: 6)
+
+		+++ Result: Win Eevee +++
+
+Charmander challenged Neutrel1
+Charmander have: [Cape{Special Defence +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Neutrel1 have: null
+Charmander HP: 51 Normal Attack: 8 Special Attack: null Defence: 6 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Charmander HP: 51(Damage received: 0)
+	+Neutrel1 HP: 3(Damage received: 7)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Charmander HP: 51(Damage received: 0)
+	+Neutrel1 HP: -4(Damage received: 7)
+
+		+++ Result: Win Charmander +++
+
+Eevee challenged Neutrel1
+Eevee have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel1 have: null
+Eevee HP: 50 Normal Attack: null Special Attack: 8 Defence: 4 Special Defence: 8 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Eevee HP: 50(Damage received: 0)
+	+Neutrel1 HP: 3(Damage received: 7)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Eevee HP: 50(Damage received: 0)
+	+Neutrel1 HP: 0(Damage received: 3)
+
+		+++ Result: Win Eevee +++
+
+Charmander challenged Neutrel2
+Charmander have: [Vest{HP +10}, Cape{Special Defence +3}, Sword{Attack +3}]
+Neutrel2 have: null
+Charmander HP: 62 Normal Attack: 9 Special Attack: null Defence: 5 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Charmander HP: 62(Damage received: 0)
+	+Neutrel2 HP: 13(Damage received: 7)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Charmander HP: 62(Damage received: 0)
+	+Neutrel2 HP: 5(Damage received: 8)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [5]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Charmander HP: 62(Damage received: 0)
+	+Neutrel2 HP: 1(Damage received: 4)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [4]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Charmander HP: 62(Damage received: 0)
+	+Neutrel2 HP: -7(Damage received: 8)
+
+		+++ Result: Win Charmander +++
+
+Eevee challenged Neutrel2
+Eevee have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel2 have: null
+Eevee HP: 51 Normal Attack: null Special Attack: 9 Defence: 5 Special Defence: 9 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 51(Damage received: 0)
+	+Neutrel2 HP: 17(Damage received: 3)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Eevee HP: 51(Damage received: 0)
+	+Neutrel2 HP: 9(Damage received: 8)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 51(Damage received: 0)
+	+Neutrel2 HP: 1(Damage received: 8)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 51(Damage received: 0)
+	+Neutrel2 HP: -7(Damage received: 8)
+
+		+++ Result: Win Eevee +++
+
+Pikachu challenged Neutrel1
+Pikachu have: [Cape{Special Defence +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Neutrel1 have: null
+Pikachu HP: 35 Normal Attack: null Special Attack: 4 Defence: 4 Special Defence: 4 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=4, stun=true, dodge=true, coolDown=5}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Pikachu HP: 35(Damage received: 0)
+	+Neutrel1 HP: 7(Damage received: 3)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Pikachu HP: 35(Damage received: 0)
+	+Neutrel1 HP: 4(Damage received: 3)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 35(Damage received: 0)
+	+Neutrel1 HP: 0(Damage received: 4)
+
+		+++ Result: Win Pikachu +++
+
+Vulpix challenged Neutrel1
+Vulpix have: [Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel1 have: null
+Vulpix HP: 36 Normal Attack: 5 Special Attack: null Defence: 2 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY1 | Neutrel1 attack with NORMAL_ATTACK
+	+Vulpix HP: 35(Damage received: 1)
+	+Neutrel1 HP: 2(Damage received: 8)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel1 is stunned
+	+Vulpix HP: 35(Damage received: 0)
+	+Neutrel1 HP: -2(Damage received: 4)
+
+		+++ Result: Win Vulpix +++
+
+Pikachu challenged Vulpix
+Pikachu have: [Cape{Special Defence +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Vulpix have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Pikachu HP: 36 Normal Attack: null Special Attack: 5 Defence: 5 Special Defence: 5 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=4, stun=true, dodge=true, coolDown=5}
+Vulpix HP: 47 Normal Attack: 6 Special Attack: null Defence: 3 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY1 | Vulpix attack with ABILITY1
+	+Pikachu HP: 28(Damage received: 8)
+	+Vulpix HP: 41(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+Pikachu is stunned | Vulpix attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Pikachu HP: 26(Damage received: 2)
+	+Vulpix HP: 41(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [0]
+* CoolDown Vulpix: Ability1 [5] Ability2 [7]
+Pikachu attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 26(Damage received: 0)
+	+Vulpix HP: 37(Damage received: 4)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [5]
+* CoolDown Vulpix: Ability1 [4] Ability2 [6]
+Pikachu attack with SPECIAL_ATTACK | Vulpix is stunned
+	+Pikachu HP: 26(Damage received: 0)
+	+Vulpix HP: 37(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [4]
+* CoolDown Vulpix: Ability1 [3] Ability2 [5]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 25(Damage received: 1)
+	+Vulpix HP: 37(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [3]
+* CoolDown Vulpix: Ability1 [2] Ability2 [4]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 24(Damage received: 1)
+	+Vulpix HP: 37(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [2]
+* CoolDown Vulpix: Ability1 [1] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 23(Damage received: 1)
+	+Vulpix HP: 37(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [1]
+* CoolDown Vulpix: Ability1 [0] Ability2 [2]
+Pikachu attack with ABILITY1 | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 22(Damage received: 1)
+	+Vulpix HP: 31(Damage received: 6)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Vulpix: Ability1 [0] Ability2 [1]
+Pikachu attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 22(Damage received: 0)
+	+Vulpix HP: 27(Damage received: 4)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [5]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix is stunned
+	+Pikachu HP: 22(Damage received: 0)
+	+Vulpix HP: 27(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [4]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY1
+	+Pikachu HP: 14(Damage received: 8)
+	+Vulpix HP: 27(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [3]
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+Pikachu is stunned | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 13(Damage received: 1)
+	+Vulpix HP: 27(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [2]
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Pikachu HP: 11(Damage received: 2)
+	+Vulpix HP: 27(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [1]
+* CoolDown Vulpix: Ability1 [4] Ability2 [7]
+Pikachu attack with ABILITY1 | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 10(Damage received: 1)
+	+Vulpix HP: 21(Damage received: 6)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Vulpix: Ability1 [3] Ability2 [6]
+Pikachu attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 10(Damage received: 0)
+	+Vulpix HP: 17(Damage received: 4)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [5]
+* CoolDown Vulpix: Ability1 [2] Ability2 [5]
+Pikachu attack with SPECIAL_ATTACK | Vulpix is stunned
+	+Pikachu HP: 10(Damage received: 0)
+	+Vulpix HP: 17(Damage received: 0)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [4]
+* CoolDown Vulpix: Ability1 [1] Ability2 [4]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 9(Damage received: 1)
+	+Vulpix HP: 17(Damage received: 0)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [3]
+* CoolDown Vulpix: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY1
+	+Pikachu HP: 1(Damage received: 8)
+	+Vulpix HP: 17(Damage received: 0)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [2]
+* CoolDown Vulpix: Ability1 [6] Ability2 [2]
+Pikachu is stunned | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 0(Damage received: 1)
+	+Vulpix HP: 17(Damage received: 0)
+
+		+++ Result: Win Vulpix +++
+
+Pikachu challenged Neutrel2
+Pikachu have: [Cape{Special Defence +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Neutrel2 have: null
+Pikachu HP: 36 Normal Attack: null Special Attack: 5 Defence: 5 Special Defence: 5 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=4, stun=true, dodge=true, coolDown=5}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 36(Damage received: 0)
+	+Neutrel2 HP: 16(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [5]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Pikachu HP: 36(Damage received: 0)
+	+Neutrel2 HP: 12(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [4]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Pikachu HP: 36(Damage received: 0)
+	+Neutrel2 HP: 6(Damage received: 6)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Pikachu HP: 36(Damage received: 0)
+	+Neutrel2 HP: 2(Damage received: 4)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Pikachu HP: 36(Damage received: 0)
+	+Neutrel2 HP: -2(Damage received: 4)
+
+		+++ Result: Win Pikachu +++
+
+Meowth challenged Neutrel2
+Meowth have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel2 have: null
+Meowth HP: 51 Normal Attack: 3 Special Attack: null Defence: 4 Special Defence: null Ability{damage=5, stun=false, dodge=true, coolDown=4} Ability{damage=1, stun=false, dodge=true, coolDown=3}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 18(Damage received: 2)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 13(Damage received: 5)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 11(Damage received: 2)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 10(Damage received: 1)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 8(Damage received: 2)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 6(Damage received: 2)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 2)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 51(Damage received: 0)
+	+Neutrel2 HP: -1(Damage received: 5)
+
+		+++ Result: Win Meowth +++
+
+Pikachu challenged Neutrel2
+Pikachu have: [Cape{Special Defence +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Neutrel2 have: null
+Pikachu HP: 37 Normal Attack: null Special Attack: 6 Defence: 6 Special Defence: 6 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=4, stun=true, dodge=true, coolDown=5}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Pikachu HP: 37(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 37(Damage received: 0)
+	+Neutrel2 HP: 10(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [5]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Pikachu HP: 37(Damage received: 0)
+	+Neutrel2 HP: 5(Damage received: 5)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [4]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Pikachu HP: 37(Damage received: 0)
+	+Neutrel2 HP: 0(Damage received: 5)
+
+		+++ Result: Win Pikachu +++
+
+Meowth challenged Neutrel2
+Meowth have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel2 have: null
+Meowth HP: 52 Normal Attack: 4 Special Attack: null Defence: 5 Special Defence: null Ability{damage=5, stun=false, dodge=true, coolDown=4} Ability{damage=1, stun=false, dodge=true, coolDown=3}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: 15(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 1)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: 11(Damage received: 3)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: 8(Damage received: 3)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: 5(Damage received: 3)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 1)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 52(Damage received: 0)
+	+Neutrel2 HP: -1(Damage received: 5)
+
+		+++ Result: Win Meowth +++
+
+Pikachu challenged Meowth
+Pikachu have: [Cape{Special Defence +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Meowth have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Pikachu HP: 38 Normal Attack: null Special Attack: 7 Defence: 7 Special Defence: 7 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=4, stun=true, dodge=true, coolDown=5}
+Meowth HP: 53 Normal Attack: 5 Special Attack: null Defence: 6 Special Defence: null Ability{damage=5, stun=false, dodge=true, coolDown=4} Ability{damage=1, stun=false, dodge=true, coolDown=3}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 37(Damage received: 1)
+	+Meowth HP: 53(Damage received: 0)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Pikachu attack with ABILITY1 | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 37(Damage received: 0)
+	+Meowth HP: 47(Damage received: 6)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Pikachu attack with ABILITY2 | Meowth attack with ABILITY1
+!! Pikachu has dodged attack !!
+!! Meowth has dodged attack !!
+	+Pikachu HP: 37(Damage received: 0)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [5]
+* CoolDown Meowth: Ability1 [4] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth is stunned
+	+Pikachu HP: 37(Damage received: 0)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [4]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 37(Damage received: 0)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [3]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 37(Damage received: 0)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [2]
+* CoolDown Meowth: Ability1 [1] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 37(Damage received: 0)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [1]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 36(Damage received: 1)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 36(Damage received: 0)
+	+Meowth HP: 47(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Pikachu attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 36(Damage received: 0)
+	+Meowth HP: 43(Damage received: 4)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [5]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth is stunned
+	+Pikachu HP: 36(Damage received: 0)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [4]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 36(Damage received: 0)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [3]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 35(Damage received: 1)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [2]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 35(Damage received: 0)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [1]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Pikachu HP: 30(Damage received: 5)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 30(Damage received: 0)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [0]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Pikachu attack with ABILITY2 | Meowth attack with ABILITY2
+!! Pikachu has dodged attack !!
+!! Meowth has dodged attack !!
+	+Pikachu HP: 30(Damage received: 0)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [5]
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth is stunned
+	+Pikachu HP: 30(Damage received: 0)
+	+Meowth HP: 43(Damage received: 0)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [4]
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+Pikachu attack with ABILITY1 | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 30(Damage received: 0)
+	+Meowth HP: 37(Damage received: 6)
+
+=====================!!! Round 20 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [3]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 30(Damage received: 0)
+	+Meowth HP: 37(Damage received: 0)
+
+=====================!!! Round 21 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [2]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 29(Damage received: 1)
+	+Meowth HP: 37(Damage received: 0)
+
+=====================!!! Round 22 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [1]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Pikachu HP: 24(Damage received: 5)
+	+Meowth HP: 37(Damage received: 0)
+
+=====================!!! Round 23 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [2]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 24(Damage received: 0)
+	+Meowth HP: 37(Damage received: 0)
+
+=====================!!! Round 24 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [3] Ability2 [1]
+Pikachu attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 24(Damage received: 0)
+	+Meowth HP: 33(Damage received: 4)
+
+=====================!!! Round 25 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [5]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth is stunned
+	+Pikachu HP: 24(Damage received: 0)
+	+Meowth HP: 33(Damage received: 0)
+
+=====================!!! Round 26 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [4]
+* CoolDown Meowth: Ability1 [1] Ability2 [0]
+Pikachu attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 23(Damage received: 1)
+	+Meowth HP: 33(Damage received: 0)
+
+=====================!!! Round 27 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [3]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Pikachu HP: 18(Damage received: 5)
+	+Meowth HP: 33(Damage received: 0)
+
+=====================!!! Round 28 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [2]
+* CoolDown Meowth: Ability1 [4] Ability2 [2]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 18(Damage received: 0)
+	+Meowth HP: 33(Damage received: 0)
+
+=====================!!! Round 29 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [1]
+* CoolDown Meowth: Ability1 [3] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 18(Damage received: 0)
+	+Meowth HP: 33(Damage received: 0)
+
+=====================!!! Round 30 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [0]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Pikachu attack with ABILITY2 | Meowth attack with ABILITY2
+!! Pikachu has dodged attack !!
+!! Meowth has dodged attack !!
+	+Pikachu HP: 18(Damage received: 0)
+	+Meowth HP: 33(Damage received: 0)
+
+=====================!!! Round 31 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [5]
+* CoolDown Meowth: Ability1 [1] Ability2 [3]
+Pikachu attack with ABILITY1 | Meowth is stunned
+	+Pikachu HP: 18(Damage received: 0)
+	+Meowth HP: 27(Damage received: 6)
+
+=====================!!! Round 32 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [4]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Pikachu HP: 13(Damage received: 5)
+	+Meowth HP: 27(Damage received: 0)
+
+=====================!!! Round 33 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [3]
+* CoolDown Meowth: Ability1 [4] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 13(Damage received: 0)
+	+Meowth HP: 27(Damage received: 0)
+
+=====================!!! Round 34 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [2]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 12(Damage received: 1)
+	+Meowth HP: 27(Damage received: 0)
+
+=====================!!! Round 35 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [1]
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 12(Damage received: 0)
+	+Meowth HP: 27(Damage received: 0)
+
+=====================!!! Round 36 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+Pikachu attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 12(Damage received: 0)
+	+Meowth HP: 23(Damage received: 4)
+
+=====================!!! Round 37 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [5]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Pikachu attack with ABILITY1 | Meowth is stunned
+	+Pikachu HP: 12(Damage received: 0)
+	+Meowth HP: 17(Damage received: 6)
+
+=====================!!! Round 38 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [4]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 11(Damage received: 1)
+	+Meowth HP: 17(Damage received: 0)
+
+=====================!!! Round 39 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [3]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 11(Damage received: 0)
+	+Meowth HP: 17(Damage received: 0)
+
+=====================!!! Round 40 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [2]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 11(Damage received: 0)
+	+Meowth HP: 17(Damage received: 0)
+
+=====================!!! Round 41 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [1]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Pikachu HP: 6(Damage received: 5)
+	+Meowth HP: 17(Damage received: 0)
+
+=====================!!! Round 42 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+Pikachu attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Pikachu HP: 5(Damage received: 1)
+	+Meowth HP: 17(Damage received: 0)
+
+=====================!!! Round 43 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+Pikachu attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 5(Damage received: 0)
+	+Meowth HP: 13(Damage received: 4)
+
+=====================!!! Round 44 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [5]
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+Pikachu attack with SPECIAL_ATTACK | Meowth is stunned
+	+Pikachu HP: 5(Damage received: 0)
+	+Meowth HP: 13(Damage received: 0)
+
+=====================!!! Round 45 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [4]
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Pikachu HP: 5(Damage received: 0)
+	+Meowth HP: 13(Damage received: 0)
+
+=====================!!! Round 46 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [3]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Pikachu HP: 0(Damage received: 5)
+	+Meowth HP: 13(Damage received: 0)
+
+		+++ Result: Win Meowth +++
+
+Meowth challenged Neutrel2
+Meowth have: [Sword{Attack +3}, Vest{HP +10}, Vitamins{HP +2, Attack +2, Special Attack +2}]
+Neutrel2 have: null
+Meowth HP: 53 Normal Attack: 8 Special Attack: null Defence: 4 Special Defence: null Ability{damage=5, stun=false, dodge=true, coolDown=4} Ability{damage=1, stun=false, dodge=true, coolDown=3}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 53(Damage received: 0)
+	+Neutrel2 HP: 15(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 53(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 1)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 53(Damage received: 0)
+	+Neutrel2 HP: 7(Damage received: 7)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Meowth HP: 53(Damage received: 0)
+	+Neutrel2 HP: 0(Damage received: 7)
+
+		+++ Result: Win Meowth +++
+
+Vulpix challenged Neutrel2
+Vulpix have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Neutrel2 have: null
+Vulpix HP: 48 Normal Attack: 7 Special Attack: null Defence: 4 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Vulpix HP: 48(Damage received: 0)
+	+Neutrel2 HP: 12(Damage received: 8)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Vulpix HP: 48(Damage received: 0)
+	+Neutrel2 HP: 6(Damage received: 6)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 48(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 2)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [4] Ability2 [7]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Vulpix HP: 48(Damage received: 0)
+	+Neutrel2 HP: -2(Damage received: 6)
+
+		+++ Result: Win Vulpix +++
+
+Charmander challenged Eevee
+Charmander have: [Sword{Attack +3}, Vest{HP +10}, Vitamins{HP +2, Attack +2, Special Attack +2}]
+Eevee have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Charmander HP: 65 Normal Attack: 12 Special Attack: null Defence: 6 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Eevee HP: 52 Normal Attack: null Special Attack: 10 Defence: 6 Special Defence: 10 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Eevee attack with ABILITY1
+	+Charmander HP: 60(Damage received: 5)
+	+Eevee HP: 45(Damage received: 7)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 55(Damage received: 5)
+	+Eevee HP: 39(Damage received: 6)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [5]
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+Charmander attack with ABILITY1 | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 50(Damage received: 5)
+	+Eevee HP: 35(Damage received: 4)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [4]
+* CoolDown Eevee: Ability1 [1] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee is stunned
+	+Charmander HP: 50(Damage received: 0)
+	+Eevee HP: 29(Damage received: 6)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [3]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 45(Damage received: 5)
+	+Eevee HP: 23(Damage received: 6)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [2]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with ABILITY2
+	+Charmander HP: 42(Damage received: 3)
+	+Eevee HP: 17(Damage received: 6)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [1]
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+Charmander is stunned | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 37(Damage received: 5)
+	+Eevee HP: 17(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+Charmander attack with ABILITY1 | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 32(Damage received: 5)
+	+Eevee HP: 13(Damage received: 4)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+Charmander attack with ABILITY2 | Eevee is stunned
+	+Charmander HP: 32(Damage received: 0)
+	+Eevee HP: 6(Damage received: 7)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [6]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with ABILITY2
+	+Charmander HP: 29(Damage received: 3)
+	+Eevee HP: 0(Damage received: 6)
+
+		+++ Result: Win Charmander +++
+
+Pikachu challenged Vulpix
+Pikachu have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Vest{HP +10}]
+Vulpix have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Pikachu HP: 50 Normal Attack: null Special Attack: 9 Defence: 5 Special Defence: 9 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=4, stun=true, dodge=true, coolDown=5}
+Vulpix HP: 49 Normal Attack: 8 Special Attack: null Defence: 5 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY1
+	+Pikachu HP: 42(Damage received: 8)
+	+Vulpix HP: 49(Damage received: 0)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+Pikachu is stunned | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 39(Damage received: 3)
+	+Vulpix HP: 49(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+Pikachu attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 39(Damage received: 0)
+	+Vulpix HP: 45(Damage received: 4)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [5]
+* CoolDown Vulpix: Ability1 [4] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix is stunned
+	+Pikachu HP: 39(Damage received: 0)
+	+Vulpix HP: 45(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [4]
+* CoolDown Vulpix: Ability1 [3] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Pikachu HP: 37(Damage received: 2)
+	+Vulpix HP: 45(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [3]
+* CoolDown Vulpix: Ability1 [2] Ability2 [7]
+Pikachu attack with ABILITY1 | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 34(Damage received: 3)
+	+Vulpix HP: 39(Damage received: 6)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [2]
+* CoolDown Vulpix: Ability1 [1] Ability2 [6]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 31(Damage received: 3)
+	+Vulpix HP: 39(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [1]
+* CoolDown Vulpix: Ability1 [0] Ability2 [5]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 28(Damage received: 3)
+	+Vulpix HP: 39(Damage received: 0)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [0]
+* CoolDown Vulpix: Ability1 [0] Ability2 [4]
+Pikachu attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 28(Damage received: 0)
+	+Vulpix HP: 35(Damage received: 4)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [5]
+* CoolDown Vulpix: Ability1 [0] Ability2 [3]
+Pikachu attack with SPECIAL_ATTACK | Vulpix is stunned
+	+Pikachu HP: 28(Damage received: 0)
+	+Vulpix HP: 35(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [4]
+* CoolDown Vulpix: Ability1 [0] Ability2 [2]
+Pikachu attack with ABILITY1 | Vulpix attack with ABILITY1
+	+Pikachu HP: 20(Damage received: 8)
+	+Vulpix HP: 29(Damage received: 6)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [3]
+* CoolDown Vulpix: Ability1 [6] Ability2 [1]
+Pikachu is stunned | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 17(Damage received: 3)
+	+Vulpix HP: 29(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [2]
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 14(Damage received: 3)
+	+Vulpix HP: 29(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [1]
+* CoolDown Vulpix: Ability1 [4] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 11(Damage received: 3)
+	+Vulpix HP: 29(Damage received: 0)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Pikachu: Ability1 [1] Ability2 [0]
+* CoolDown Vulpix: Ability1 [3] Ability2 [0]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Pikachu HP: 9(Damage received: 2)
+	+Vulpix HP: 29(Damage received: 0)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Pikachu: Ability1 [0] Ability2 [0]
+* CoolDown Vulpix: Ability1 [2] Ability2 [7]
+Pikachu attack with ABILITY1 | Vulpix attack with NORMAL_ATTACK
+	+Pikachu HP: 6(Damage received: 3)
+	+Vulpix HP: 23(Damage received: 6)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Pikachu: Ability1 [4] Ability2 [0]
+* CoolDown Vulpix: Ability1 [1] Ability2 [6]
+Pikachu attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+!! Pikachu has dodged attack !!
+	+Pikachu HP: 6(Damage received: 0)
+	+Vulpix HP: 19(Damage received: 4)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Pikachu: Ability1 [3] Ability2 [5]
+* CoolDown Vulpix: Ability1 [0] Ability2 [5]
+Pikachu attack with SPECIAL_ATTACK | Vulpix is stunned
+	+Pikachu HP: 6(Damage received: 0)
+	+Vulpix HP: 19(Damage received: 0)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Pikachu: Ability1 [2] Ability2 [4]
+* CoolDown Vulpix: Ability1 [0] Ability2 [4]
+Pikachu attack with SPECIAL_ATTACK | Vulpix attack with ABILITY1
+	+Pikachu HP: -2(Damage received: 8)
+	+Vulpix HP: 19(Damage received: 0)
+
+		+++ Result: Win Vulpix +++
+
+Meowth challenged Meowth
+Meowth have: [Sword{Attack +3}, Vest{HP +10}, Vitamins{HP +2, Attack +2, Special Attack +2}]
+Meowth have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Meowth HP: 54 Normal Attack: 9 Special Attack: null Defence: 5 Special Defence: null Ability{damage=5, stun=false, dodge=true, coolDown=4} Ability{damage=1, stun=false, dodge=true, coolDown=3}
+Meowth HP: 54 Normal Attack: 6 Special Attack: null Defence: 7 Special Defence: null Ability{damage=5, stun=false, dodge=true, coolDown=4} Ability{damage=1, stun=false, dodge=true, coolDown=3}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 54(Damage received: 0)
+	+Meowth HP: 54(Damage received: 0)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Meowth HP: 49(Damage received: 5)
+	+Meowth HP: 54(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [2]
+Meowth attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 49(Damage received: 0)
+	+Meowth HP: 53(Damage received: 1)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+* CoolDown Meowth: Ability1 [3] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 48(Damage received: 1)
+	+Meowth HP: 51(Damage received: 2)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Meowth HP: 47(Damage received: 1)
+	+Meowth HP: 51(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+* CoolDown Meowth: Ability1 [1] Ability2 [3]
+Meowth attack with ABILITY1 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 47(Damage received: 0)
+	+Meowth HP: 46(Damage received: 5)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Meowth HP: 42(Damage received: 5)
+	+Meowth HP: 46(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 41(Damage received: 1)
+	+Meowth HP: 44(Damage received: 2)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Meowth HP: 40(Damage received: 1)
+	+Meowth HP: 44(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [0]
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+Meowth attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 40(Damage received: 0)
+	+Meowth HP: 43(Damage received: 1)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 39(Damage received: 1)
+	+Meowth HP: 41(Damage received: 2)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Meowth HP: 34(Damage received: 5)
+	+Meowth HP: 41(Damage received: 0)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 34(Damage received: 0)
+	+Meowth HP: 41(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+Meowth attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 34(Damage received: 0)
+	+Meowth HP: 40(Damage received: 1)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 33(Damage received: 1)
+	+Meowth HP: 38(Damage received: 2)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 32(Damage received: 1)
+	+Meowth HP: 36(Damage received: 2)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 31(Damage received: 1)
+	+Meowth HP: 34(Damage received: 2)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 31(Damage received: 0)
+	+Meowth HP: 34(Damage received: 0)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+Meowth attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 31(Damage received: 0)
+	+Meowth HP: 33(Damage received: 1)
+
+=====================!!! Round 20 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 30(Damage received: 1)
+	+Meowth HP: 31(Damage received: 2)
+
+=====================!!! Round 21 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Meowth HP: 29(Damage received: 1)
+	+Meowth HP: 31(Damage received: 0)
+
+=====================!!! Round 22 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+* CoolDown Meowth: Ability1 [1] Ability2 [3]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 28(Damage received: 1)
+	+Meowth HP: 29(Damage received: 2)
+
+=====================!!! Round 23 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 28(Damage received: 0)
+	+Meowth HP: 29(Damage received: 0)
+
+=====================!!! Round 24 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [1]
+Meowth attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 28(Damage received: 0)
+	+Meowth HP: 28(Damage received: 1)
+
+=====================!!! Round 25 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Meowth HP: 27(Damage received: 1)
+	+Meowth HP: 28(Damage received: 0)
+
+=====================!!! Round 26 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 26(Damage received: 1)
+	+Meowth HP: 26(Damage received: 2)
+
+=====================!!! Round 27 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 25(Damage received: 1)
+	+Meowth HP: 24(Damage received: 2)
+
+=====================!!! Round 28 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 25(Damage received: 0)
+	+Meowth HP: 24(Damage received: 0)
+
+=====================!!! Round 29 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+Meowth attack with ABILITY2 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 25(Damage received: 0)
+	+Meowth HP: 24(Damage received: 0)
+
+=====================!!! Round 30 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+* CoolDown Meowth: Ability1 [3] Ability2 [3]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 24(Damage received: 1)
+	+Meowth HP: 22(Damage received: 2)
+
+=====================!!! Round 31 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+* CoolDown Meowth: Ability1 [2] Ability2 [2]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 23(Damage received: 1)
+	+Meowth HP: 20(Damage received: 2)
+
+=====================!!! Round 32 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+* CoolDown Meowth: Ability1 [1] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 22(Damage received: 1)
+	+Meowth HP: 18(Damage received: 2)
+
+=====================!!! Round 33 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 22(Damage received: 0)
+	+Meowth HP: 18(Damage received: 0)
+
+=====================!!! Round 34 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 21(Damage received: 1)
+	+Meowth HP: 16(Damage received: 2)
+
+=====================!!! Round 35 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [2]
+Meowth attack with ABILITY2 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 21(Damage received: 0)
+	+Meowth HP: 15(Damage received: 1)
+
+=====================!!! Round 36 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [3]
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Meowth HP: 16(Damage received: 5)
+	+Meowth HP: 15(Damage received: 0)
+
+=====================!!! Round 37 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [2]
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 15(Damage received: 1)
+	+Meowth HP: 13(Damage received: 2)
+
+=====================!!! Round 38 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [1]
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 14(Damage received: 1)
+	+Meowth HP: 11(Damage received: 2)
+
+=====================!!! Round 39 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 13(Damage received: 1)
+	+Meowth HP: 9(Damage received: 2)
+
+=====================!!! Round 40 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [1] Ability2 [0]
+Meowth attack with ABILITY1 | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+!! Meowth has dodged attack !!
+	+Meowth HP: 13(Damage received: 0)
+	+Meowth HP: 9(Damage received: 0)
+
+=====================!!! Round 41 !!!=====================
+* CoolDown Meowth: Ability1 [4] Ability2 [0]
+* CoolDown Meowth: Ability1 [0] Ability2 [3]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY1
+!! Meowth has dodged attack !!
+	+Meowth HP: 8(Damage received: 5)
+	+Meowth HP: 9(Damage received: 0)
+
+=====================!!! Round 42 !!!=====================
+* CoolDown Meowth: Ability1 [3] Ability2 [0]
+* CoolDown Meowth: Ability1 [4] Ability2 [2]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 7(Damage received: 1)
+	+Meowth HP: 7(Damage received: 2)
+
+=====================!!! Round 43 !!!=====================
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+* CoolDown Meowth: Ability1 [3] Ability2 [1]
+Meowth attack with NORMAL_ATTACK | Meowth attack with NORMAL_ATTACK
+	+Meowth HP: 6(Damage received: 1)
+	+Meowth HP: 5(Damage received: 2)
+
+=====================!!! Round 44 !!!=====================
+* CoolDown Meowth: Ability1 [1] Ability2 [0]
+* CoolDown Meowth: Ability1 [2] Ability2 [0]
+Meowth attack with NORMAL_ATTACK | Meowth attack with ABILITY2
+!! Meowth has dodged attack !!
+	+Meowth HP: 5(Damage received: 1)
+	+Meowth HP: 5(Damage received: 0)
+
+=====================!!! Round 45 !!!=====================
+* CoolDown Meowth: Ability1 [0] Ability2 [0]
+* CoolDown Meowth: Ability1 [1] Ability2 [3]
+Meowth attack with ABILITY1 | Meowth attack with NORMAL_ATTACK
+!! Meowth has dodged attack !!
+	+Meowth HP: 5(Damage received: 0)
+	+Meowth HP: 0(Damage received: 5)
+
+		+++ Result: Win Meowth +++
+
+Charmander challenged Vulpix
+Charmander have: [Sword{Attack +3}, Vest{HP +10}, Vitamins{HP +2, Attack +2, Special Attack +2}]
+Vulpix have: [Vest{HP +10}, Wand{Special Attack +3}, Cape{Special Defence +3}]
+Charmander HP: 66 Normal Attack: 13 Special Attack: null Defence: 7 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Vulpix HP: 50 Normal Attack: 9 Special Attack: null Defence: 6 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Vulpix attack with NORMAL_ATTACK
+	+Charmander HP: 64(Damage received: 2)
+	+Vulpix HP: 46(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Vulpix is stunned
+	+Charmander HP: 64(Damage received: 0)
+	+Vulpix HP: 39(Damage received: 7)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [6]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Charmander HP: 62(Damage received: 2)
+	+Vulpix HP: 32(Damage received: 7)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [5]
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Vulpix attack with ABILITY1
+	+Charmander HP: 54(Damage received: 8)
+	+Vulpix HP: 25(Damage received: 7)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [4]
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+Charmander is stunned | Vulpix attack with NORMAL_ATTACK
+	+Charmander HP: 52(Damage received: 2)
+	+Vulpix HP: 25(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [3]
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+Charmander attack with ABILITY1 | Vulpix attack with ABILITY2
+!! Vulpix has dodged attack !!
+	+Charmander HP: 50(Damage received: 2)
+	+Vulpix HP: 25(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [2]
+* CoolDown Vulpix: Ability1 [4] Ability2 [7]
+Charmander attack with NORMAL_ATTACK | Vulpix is stunned
+	+Charmander HP: 50(Damage received: 0)
+	+Vulpix HP: 18(Damage received: 7)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [1]
+* CoolDown Vulpix: Ability1 [3] Ability2 [6]
+Charmander attack with NORMAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Charmander HP: 48(Damage received: 2)
+	+Vulpix HP: 11(Damage received: 7)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [0]
+* CoolDown Vulpix: Ability1 [2] Ability2 [5]
+Charmander attack with NORMAL_ATTACK | Vulpix attack with NORMAL_ATTACK
+	+Charmander HP: 46(Damage received: 2)
+	+Vulpix HP: 4(Damage received: 7)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [0]
+* CoolDown Vulpix: Ability1 [1] Ability2 [4]
+Charmander attack with ABILITY2 | Vulpix attack with NORMAL_ATTACK
+	+Charmander HP: 44(Damage received: 2)
+	+Vulpix HP: -3(Damage received: 7)
+
+		+++ Result: Win Charmander +++
+
+Winner of all adventure is: Todd with pokemon: Charmander

@@ -1,0 +1,63 @@
+<?xml version = "1.0"?>
+<Game id = "1">
+    <Battle nr = "0">
+        <Coach>
+            <Name>Ash</Name>
+            <PokemonToFight>Pikachu</PokemonToFight>
+            <ItemsGive>
+                <Item>Cape</Item>
+                <Item>Wand</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Bonnie</Name>
+            <PokemonToFight>Psyduck</PokemonToFight>
+            <ItemsGive>
+                <Item>Sword</Item>
+                <Item>Shield</Item>
+                <Item>ChristmasTree</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "1">
+        <Coach>
+            <Name>Ash</Name>
+            <PokemonToFight>Charmander</PokemonToFight>
+            <ItemsGive>
+                <Item>Cape</Item>
+                <Item>Wand</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Bonnie</Name>
+            <PokemonToFight>Meowth</PokemonToFight>
+            <ItemsGive>
+                <Item>Vitamins</Item>
+                <Item>Sword</Item>
+                <Item>Shield</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+    <Battle nr = "2">
+        <Coach>
+            <Name>Ash</Name>
+            <PokemonToFight>Eevee</PokemonToFight>
+            <ItemsGive>
+                <Item>Cape</Item>
+                <Item>Wand</Item>
+                <Item>Vest</Item>
+            </ItemsGive>
+        </Coach>
+        <Coach>
+            <Name>Bonnie</Name>
+            <PokemonToFight>Snorlax</PokemonToFight>
+            <ItemsGive>
+                <Item>Shield</Item>
+                <Item>ChristmasTree</Item>
+                <Item>Vitamins</Item>
+            </ItemsGive>
+        </Coach>
+    </Battle>
+</Game>

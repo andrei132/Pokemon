@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<Game ID = "0">
+    <Coach>
+        <Name>Ash</Name>
+        <Age>16</Age>
+        <Pokemons>
+            <Pokemon>Bulbasaur</Pokemon>
+            <Pokemon>Snorlax</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Sword</Item>
+            <Item>Shield</Item>
+            <Item>Vest</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Max</Name>
+        <Age>18</Age>
+        <Pokemons>
+            <Pokemon>Squirtle</Pokemon>
+            <Pokemon>Psyduck</Pokemon>
+            <Pokemon>Charmander</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Sword</Item>
+            <Item>Shield</Item>
+        </Items>
+    </Coach>
+</Game>

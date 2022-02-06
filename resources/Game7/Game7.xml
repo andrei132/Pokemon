@@ -1,0 +1,34 @@
+<?xml version = "1.0"?>
+<Game ID = "7">
+    <Coach>
+        <Name>Misty</Name>
+        <Age>16</Age>
+        <Pokemons>
+            <Pokemon>Pikachu</Pokemon>
+            <Pokemon>Jigglypuff</Pokemon>
+            <Pokemon>Charmander</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>ChristmasTree</Item>
+            <Item>Wand</Item>
+            <Item>Shield</Item>
+            <Item>Sword</Item>
+            <Item>Cape</Item>
+            <Item>Vitamins</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Clemont</Name>
+        <Age>17</Age>
+        <Pokemons>
+            <Pokemon>Jigglypuff</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+            <Pokemon>Psyduck</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Wand</Item>
+            <Item>Shield</Item>
+            <Item>Sword</Item>
+        </Items>
+    </Coach>
+</Game>

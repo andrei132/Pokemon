@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<Game ID = "5">
+    <Coach>
+        <Name>Cilan</Name>
+        <Age>20</Age>
+        <Pokemons>
+            <Pokemon>Bulbasaur</Pokemon>
+            <Pokemon>Eevee</Pokemon>
+            <Pokemon>Vulpix</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Vitamins</Item>
+            <Item>Sword</Item>
+            <Item>Wand</Item>
+        </Items>
+    </Coach>
+    <Coach>
+        <Name>Brock</Name>
+        <Age>27</Age>
+        <Pokemons>
+            <Pokemon>Jigglypuff</Pokemon>
+            <Pokemon>Charmander</Pokemon>
+            <Pokemon>Psyduck</Pokemon>
+        </Pokemons>
+        <Items>
+            <Item>Cape</Item>
+            <Item>Vest</Item>
+            <Item>Sword</Item>
+        </Items>
+    </Coach>
+</Game>

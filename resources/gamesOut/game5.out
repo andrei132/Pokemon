@@ -1,0 +1,963 @@
+Bulbasaur challenged Psyduck
+Bulbasaur have: [Wand{Special Attack +3}, Vitamins{HP +2, Attack +2, Special Attack +2}]
+Psyduck have: [Cape{Special Defence +3}]
+Bulbasaur HP: 44 Normal Attack: null Special Attack: 10 Defence: 3 Special Defence: 10 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Psyduck HP: 43 Normal Attack: 3 Special Attack: null Defence: 3 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Psyduck attack with ABILITY2
+	+Bulbasaur HP: 42(Damage received: 2)
+	+Psyduck HP: 38(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+Bulbasaur is stunned | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 42(Damage received: 0)
+	+Psyduck HP: 38(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [2]
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+Bulbasaur attack with ABILITY1 | Psyduck attack with ABILITY1
+	+Bulbasaur HP: 40(Damage received: 2)
+	+Psyduck HP: 32(Damage received: 6)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [1]
+* CoolDown Psyduck: Ability1 [4] Ability2 [3]
+Bulbasaur attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 40(Damage received: 0)
+	+Psyduck HP: 28(Damage received: 4)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [0]
+* CoolDown Psyduck: Ability1 [3] Ability2 [2]
+Bulbasaur attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 40(Damage received: 0)
+	+Psyduck HP: 24(Damage received: 4)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+* CoolDown Psyduck: Ability1 [2] Ability2 [1]
+Bulbasaur attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 40(Damage received: 0)
+	+Psyduck HP: 20(Damage received: 4)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 40(Damage received: 0)
+	+Psyduck HP: 16(Damage received: 4)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Psyduck attack with ABILITY2
+	+Bulbasaur HP: 38(Damage received: 2)
+	+Psyduck HP: 12(Damage received: 4)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+Bulbasaur is stunned | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 38(Damage received: 0)
+	+Psyduck HP: 12(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+Bulbasaur attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 38(Damage received: 0)
+	+Psyduck HP: 6(Damage received: 6)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [3]
+Bulbasaur attack with ABILITY2 | Psyduck attack with ABILITY1
+	+Bulbasaur HP: 36(Damage received: 2)
+	+Psyduck HP: 1(Damage received: 5)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [3]
+* CoolDown Psyduck: Ability1 [4] Ability2 [2]
+Bulbasaur attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Bulbasaur HP: 36(Damage received: 0)
+	+Psyduck HP: -3(Damage received: 4)
+
+		+++ Result: Win Bulbasaur +++
+
+Bulbasaur challenged Jigglypuff
+Bulbasaur have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Wand{Special Attack +3}]
+Jigglypuff have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Bulbasaur HP: 45 Normal Attack: null Special Attack: 11 Defence: 4 Special Defence: 11 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Jigglypuff HP: 44 Normal Attack: 7 Special Attack: null Defence: 2 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=3, stun=true, dodge=false, coolDown=4}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Jigglypuff attack with ABILITY2
+	+Bulbasaur HP: 42(Damage received: 3)
+	+Jigglypuff HP: 39(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [4]
+Bulbasaur is stunned | Jigglypuff attack with ABILITY1
+	+Bulbasaur HP: 38(Damage received: 4)
+	+Jigglypuff HP: 39(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [2]
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [3]
+Bulbasaur is stunned | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 35(Damage received: 3)
+	+Jigglypuff HP: 39(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [1]
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [2]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 32(Damage received: 3)
+	+Jigglypuff HP: 34(Damage received: 5)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [2] Ability2 [1]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 29(Damage received: 3)
+	+Jigglypuff HP: 29(Damage received: 5)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [1] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Jigglypuff attack with ABILITY2
+	+Bulbasaur HP: 26(Damage received: 3)
+	+Jigglypuff HP: 24(Damage received: 5)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [4]
+Bulbasaur is stunned | Jigglypuff attack with ABILITY1
+	+Bulbasaur HP: 22(Damage received: 4)
+	+Jigglypuff HP: 24(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [2]
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [3]
+Bulbasaur is stunned | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 19(Damage received: 3)
+	+Jigglypuff HP: 24(Damage received: 0)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [1]
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [2]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 16(Damage received: 3)
+	+Jigglypuff HP: 19(Damage received: 5)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [2] Ability2 [1]
+Bulbasaur attack with ABILITY1 | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 13(Damage received: 3)
+	+Jigglypuff HP: 13(Damage received: 6)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [1] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 10(Damage received: 3)
+	+Jigglypuff HP: 8(Damage received: 5)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [3]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 7(Damage received: 3)
+	+Jigglypuff HP: 3(Damage received: 5)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [2]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 4(Damage received: 3)
+	+Jigglypuff HP: -2(Damage received: 5)
+
+		+++ Result: Win Bulbasaur +++
+
+Vulpix challenged Charmander
+Vulpix have: [Sword{Attack +3}, Wand{Special Attack +3}]
+Charmander have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Vulpix HP: 36 Normal Attack: 8 Special Attack: null Defence: 2 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Charmander HP: 60 Normal Attack: 7 Special Attack: null Defence: 3 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with ABILITY2
+	+Vulpix HP: 29(Damage received: 7)
+	+Charmander HP: 55(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+Vulpix attack with ABILITY1 | Charmander attack with ABILITY1
+	+Vulpix HP: 25(Damage received: 4)
+	+Charmander HP: 47(Damage received: 8)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [0]
+* CoolDown Charmander: Ability1 [4] Ability2 [5]
+Vulpix is stunned | Charmander is stunned
+	+Vulpix HP: 25(Damage received: 0)
+	+Charmander HP: 47(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [0]
+* CoolDown Charmander: Ability1 [3] Ability2 [4]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 20(Damage received: 5)
+	+Charmander HP: 42(Damage received: 5)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Vulpix: Ability1 [4] Ability2 [0]
+* CoolDown Charmander: Ability1 [2] Ability2 [3]
+Vulpix attack with ABILITY2 | Charmander attack with NORMAL_ATTACK
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 20(Damage received: 0)
+	+Charmander HP: 40(Damage received: 2)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Vulpix: Ability1 [3] Ability2 [7]
+* CoolDown Charmander: Ability1 [1] Ability2 [2]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 15(Damage received: 5)
+	+Charmander HP: 35(Damage received: 5)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Vulpix: Ability1 [2] Ability2 [6]
+* CoolDown Charmander: Ability1 [0] Ability2 [1]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Vulpix HP: 10(Damage received: 5)
+	+Charmander HP: 30(Damage received: 5)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Vulpix: Ability1 [1] Ability2 [5]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Charmander attack with ABILITY2
+	+Vulpix HP: 3(Damage received: 7)
+	+Charmander HP: 25(Damage received: 5)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [4]
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+Vulpix attack with ABILITY1 | Charmander attack with ABILITY1
+	+Vulpix HP: -1(Damage received: 4)
+	+Charmander HP: 17(Damage received: 8)
+
+		+++ Result: Win Charmander +++
+
+Eevee challenged Psyduck
+Eevee have: [Sword{Attack +3}]
+Psyduck have: [Sword{Attack +3}]
+Eevee HP: 39 Normal Attack: null Special Attack: 4 Defence: 3 Special Defence: 4 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Psyduck HP: 43 Normal Attack: 6 Special Attack: null Defence: 3 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY2 | Psyduck attack with ABILITY1
+	+Eevee HP: 37(Damage received: 2)
+	+Psyduck HP: 40(Damage received: 3)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Eevee attack with ABILITY1 | Psyduck is stunned
+	+Eevee HP: 37(Damage received: 0)
+	+Psyduck HP: 35(Damage received: 5)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [2]
+* CoolDown Psyduck: Ability1 [3] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with ABILITY2
+	+Eevee HP: 35(Damage received: 2)
+	+Psyduck HP: 34(Damage received: 1)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [1]
+* CoolDown Psyduck: Ability1 [2] Ability2 [5]
+Eevee is stunned | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 32(Damage received: 3)
+	+Psyduck HP: 34(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Eevee: Ability1 [1] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [4]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 29(Damage received: 3)
+	+Psyduck HP: 33(Damage received: 1)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [3]
+Eevee attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 26(Damage received: 3)
+	+Psyduck HP: 28(Damage received: 5)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+Eevee attack with ABILITY2 | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 23(Damage received: 3)
+	+Psyduck HP: 25(Damage received: 3)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [3]
+* CoolDown Psyduck: Ability1 [0] Ability2 [1]
+Eevee attack with SPECIAL_ATTACK | Psyduck is stunned
+	+Eevee HP: 23(Damage received: 0)
+	+Psyduck HP: 24(Damage received: 1)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Eevee: Ability1 [1] Ability2 [2]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with ABILITY1
+	+Eevee HP: 21(Damage received: 2)
+	+Psyduck HP: 23(Damage received: 1)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Eevee attack with ABILITY1 | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 18(Damage received: 3)
+	+Psyduck HP: 18(Damage received: 5)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+* CoolDown Psyduck: Ability1 [3] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 15(Damage received: 3)
+	+Psyduck HP: 17(Damage received: 1)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+* CoolDown Psyduck: Ability1 [2] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with ABILITY2
+	+Eevee HP: 13(Damage received: 2)
+	+Psyduck HP: 16(Damage received: 1)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Eevee: Ability1 [1] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [5]
+Eevee is stunned | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 10(Damage received: 3)
+	+Psyduck HP: 16(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+Eevee attack with ABILITY2 | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 7(Damage received: 3)
+	+Psyduck HP: 13(Damage received: 3)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+* CoolDown Psyduck: Ability1 [0] Ability2 [3]
+Eevee attack with SPECIAL_ATTACK | Psyduck is stunned
+	+Eevee HP: 7(Damage received: 0)
+	+Psyduck HP: 12(Damage received: 1)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 4(Damage received: 3)
+	+Psyduck HP: 11(Damage received: 1)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+* CoolDown Psyduck: Ability1 [0] Ability2 [1]
+Eevee attack with SPECIAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: 1(Damage received: 3)
+	+Psyduck HP: 10(Damage received: 1)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY2 | Psyduck attack with NORMAL_ATTACK
+	+Eevee HP: -2(Damage received: 3)
+	+Psyduck HP: 7(Damage received: 3)
+
+		+++ Result: Win Psyduck +++
+
+Vulpix challenged Neutrel2
+Vulpix have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Wand{Special Attack +3}]
+Neutrel2 have: null
+Vulpix HP: 38 Normal Attack: 10 Special Attack: null Defence: 2 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 38(Damage received: 0)
+	+Neutrel2 HP: 18(Damage received: 2)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [7]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Vulpix HP: 36(Damage received: 2)
+	+Neutrel2 HP: 10(Damage received: 8)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [6]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Vulpix HP: 36(Damage received: 0)
+	+Neutrel2 HP: 1(Damage received: 9)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [5]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 2)
+	+Neutrel2 HP: -8(Damage received: 9)
+
+		+++ Result: Win Vulpix +++
+
+Psyduck challenged Neutrel2
+Psyduck have: [Vest{HP +10}, Sword{Attack +3}]
+Neutrel2 have: null
+Psyduck HP: 54 Normal Attack: 7 Special Attack: null Defence: 4 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Psyduck HP: 54(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Psyduck HP: 54(Damage received: 0)
+	+Neutrel2 HP: 12(Damage received: 2)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Psyduck HP: 54(Damage received: 0)
+	+Neutrel2 HP: 6(Damage received: 6)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Psyduck HP: 54(Damage received: 0)
+	+Neutrel2 HP: 0(Damage received: 6)
+
+		+++ Result: Win Psyduck +++
+
+Eevee challenged Neutrel2
+Eevee have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}]
+Neutrel2 have: null
+Eevee HP: 41 Normal Attack: null Special Attack: 6 Defence: 3 Special Defence: 6 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 40(Damage received: 1)
+	+Neutrel2 HP: 15(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 39(Damage received: 1)
+	+Neutrel2 HP: 10(Damage received: 5)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 38(Damage received: 1)
+	+Neutrel2 HP: 7(Damage received: 3)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Eevee: Ability1 [1] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Eevee HP: 38(Damage received: 0)
+	+Neutrel2 HP: 2(Damage received: 5)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 37(Damage received: 1)
+	+Neutrel2 HP: -3(Damage received: 5)
+
+		+++ Result: Win Eevee +++
+
+Jigglypuff challenged Neutrel2
+Jigglypuff have: [Vest{HP +10}]
+Neutrel2 have: null
+Jigglypuff HP: 44 Normal Attack: 4 Special Attack: null Defence: 2 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=3, stun=true, dodge=false, coolDown=4}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 42(Damage received: 2)
+	+Neutrel2 HP: 17(Damage received: 3)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 40(Damage received: 2)
+	+Neutrel2 HP: 14(Damage received: 3)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [4]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Jigglypuff HP: 40(Damage received: 0)
+	+Neutrel2 HP: 11(Damage received: 3)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 38(Damage received: 2)
+	+Neutrel2 HP: 7(Damage received: 4)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Jigglypuff HP: 38(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 3)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 36(Damage received: 2)
+	+Neutrel2 HP: 1(Damage received: 3)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Jigglypuff: Ability1 [2] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 34(Damage received: 2)
+	+Neutrel2 HP: -2(Damage received: 3)
+
+		+++ Result: Win Jigglypuff +++
+
+Bulbasaur challenged Neutrel1
+Bulbasaur have: [Sword{Attack +3}, Wand{Special Attack +3}]
+Neutrel1 have: null
+Bulbasaur HP: 44 Normal Attack: null Special Attack: 10 Defence: 5 Special Defence: 10 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Bulbasaur HP: 44(Damage received: 0)
+	+Neutrel1 HP: 5(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Neutrel1 attack with NORMAL_ATTACK
+	+Bulbasaur HP: 44(Damage received: 0)
+	+Neutrel1 HP: -1(Damage received: 6)
+
+		+++ Result: Win Bulbasaur +++
+
+Charmander challenged Neutrel1
+Charmander have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Neutrel1 have: null
+Charmander HP: 61 Normal Attack: 8 Special Attack: null Defence: 4 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Charmander HP: 61(Damage received: 0)
+	+Neutrel1 HP: 3(Damage received: 7)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Charmander HP: 61(Damage received: 0)
+	+Neutrel1 HP: -4(Damage received: 7)
+
+		+++ Result: Win Charmander +++
+
+Bulbasaur challenged Jigglypuff
+Bulbasaur have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Wand{Special Attack +3}]
+Jigglypuff have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Bulbasaur HP: 47 Normal Attack: null Special Attack: 13 Defence: 6 Special Defence: 13 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Jigglypuff HP: 45 Normal Attack: 8 Special Attack: null Defence: 3 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=3, stun=true, dodge=false, coolDown=4}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 45(Damage received: 2)
+	+Jigglypuff HP: 40(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with ABILITY1
+	+Bulbasaur HP: 41(Damage received: 4)
+	+Jigglypuff HP: 34(Damage received: 6)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [2]
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [0]
+Bulbasaur is stunned | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 39(Damage received: 2)
+	+Jigglypuff HP: 34(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [1]
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 37(Damage received: 2)
+	+Jigglypuff HP: 28(Damage received: 6)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [2] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Jigglypuff attack with ABILITY2
+	+Bulbasaur HP: 34(Damage received: 3)
+	+Jigglypuff HP: 23(Damage received: 5)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [3]
+* CoolDown Jigglypuff: Ability1 [1] Ability2 [4]
+Bulbasaur is stunned | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 32(Damage received: 2)
+	+Jigglypuff HP: 23(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [2]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [3]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 30(Damage received: 2)
+	+Jigglypuff HP: 17(Damage received: 6)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [1]
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [2]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with ABILITY1
+	+Bulbasaur HP: 26(Damage received: 4)
+	+Jigglypuff HP: 11(Damage received: 6)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [1]
+Bulbasaur is stunned | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 24(Damage received: 2)
+	+Jigglypuff HP: 11(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Jigglypuff attack with NORMAL_ATTACK
+	+Bulbasaur HP: 22(Damage received: 2)
+	+Jigglypuff HP: 5(Damage received: 6)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Jigglypuff: Ability1 [2] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Jigglypuff attack with ABILITY2
+	+Bulbasaur HP: 19(Damage received: 3)
+	+Jigglypuff HP: -1(Damage received: 6)
+
+		+++ Result: Win Bulbasaur +++
+
+Eevee challenged Charmander
+Eevee have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Wand{Special Attack +3}]
+Charmander have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Eevee HP: 42 Normal Attack: null Special Attack: 10 Defence: 4 Special Defence: 10 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Charmander HP: 62 Normal Attack: 9 Special Attack: null Defence: 5 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY1 | Charmander attack with ABILITY1
+	+Eevee HP: 38(Damage received: 4)
+	+Charmander HP: 57(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+Eevee is stunned | Charmander attack with ABILITY2
+	+Eevee HP: 31(Damage received: 7)
+	+Charmander HP: 57(Damage received: 0)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+* CoolDown Charmander: Ability1 [3] Ability2 [6]
+Eevee attack with SPECIAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Eevee HP: 26(Damage received: 5)
+	+Charmander HP: 54(Damage received: 3)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Eevee: Ability1 [1] Ability2 [0]
+* CoolDown Charmander: Ability1 [2] Ability2 [5]
+Eevee attack with ABILITY2 | Charmander attack with NORMAL_ATTACK
+	+Eevee HP: 21(Damage received: 5)
+	+Charmander HP: 51(Damage received: 3)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+* CoolDown Charmander: Ability1 [1] Ability2 [4]
+Eevee attack with SPECIAL_ATTACK | Charmander is stunned
+	+Eevee HP: 21(Damage received: 0)
+	+Charmander HP: 48(Damage received: 3)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+* CoolDown Charmander: Ability1 [0] Ability2 [3]
+Eevee attack with SPECIAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Eevee HP: 16(Damage received: 5)
+	+Charmander HP: 45(Damage received: 3)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+* CoolDown Charmander: Ability1 [0] Ability2 [2]
+Eevee attack with ABILITY1 | Charmander attack with NORMAL_ATTACK
+	+Eevee HP: 11(Damage received: 5)
+	+Charmander HP: 40(Damage received: 5)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [1]
+Eevee attack with SPECIAL_ATTACK | Charmander attack with ABILITY1
+	+Eevee HP: 7(Damage received: 4)
+	+Charmander HP: 37(Damage received: 3)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+Eevee is stunned | Charmander attack with ABILITY2
+	+Eevee HP: 0(Damage received: 7)
+	+Charmander HP: 37(Damage received: 0)
+
+		+++ Result: Win Charmander +++
+
+Vulpix challenged Psyduck
+Vulpix have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Wand{Special Attack +3}]
+Psyduck have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Vulpix HP: 39 Normal Attack: 11 Special Attack: null Defence: 3 Special Defence: null Ability{damage=8, stun=true, dodge=false, coolDown=6} Ability{damage=2, stun=false, dodge=true, coolDown=7}
+Psyduck HP: 55 Normal Attack: 8 Special Attack: null Defence: 5 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 34(Damage received: 5)
+	+Psyduck HP: 49(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+Vulpix attack with ABILITY2 | Psyduck attack with ABILITY1
+!! Vulpix has dodged attack !!
+	+Vulpix HP: 34(Damage received: 0)
+	+Psyduck HP: 47(Damage received: 2)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [7]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Vulpix attack with ABILITY1 | Psyduck attack with ABILITY2
+	+Vulpix HP: 32(Damage received: 2)
+	+Psyduck HP: 39(Damage received: 8)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Vulpix: Ability1 [6] Ability2 [6]
+* CoolDown Psyduck: Ability1 [3] Ability2 [5]
+Vulpix is stunned | Psyduck is stunned
+	+Vulpix HP: 32(Damage received: 0)
+	+Psyduck HP: 39(Damage received: 0)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Vulpix: Ability1 [5] Ability2 [5]
+* CoolDown Psyduck: Ability1 [2] Ability2 [4]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 27(Damage received: 5)
+	+Psyduck HP: 33(Damage received: 6)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Vulpix: Ability1 [4] Ability2 [4]
+* CoolDown Psyduck: Ability1 [1] Ability2 [3]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 22(Damage received: 5)
+	+Psyduck HP: 27(Damage received: 6)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Vulpix: Ability1 [3] Ability2 [3]
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 17(Damage received: 5)
+	+Psyduck HP: 21(Damage received: 6)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Vulpix: Ability1 [2] Ability2 [2]
+* CoolDown Psyduck: Ability1 [0] Ability2 [1]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with ABILITY1
+	+Vulpix HP: 15(Damage received: 2)
+	+Psyduck HP: 15(Damage received: 6)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Vulpix: Ability1 [1] Ability2 [1]
+* CoolDown Psyduck: Ability1 [4] Ability2 [0]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with ABILITY2
+	+Vulpix HP: 13(Damage received: 2)
+	+Psyduck HP: 9(Damage received: 6)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [3] Ability2 [5]
+Vulpix is stunned | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 8(Damage received: 5)
+	+Psyduck HP: 9(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [2] Ability2 [4]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: 3(Damage received: 5)
+	+Psyduck HP: 3(Damage received: 6)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Vulpix: Ability1 [0] Ability2 [0]
+* CoolDown Psyduck: Ability1 [1] Ability2 [3]
+Vulpix attack with NORMAL_ATTACK | Psyduck attack with NORMAL_ATTACK
+	+Vulpix HP: -2(Damage received: 5)
+	+Psyduck HP: -3(Damage received: 6)
+
+		+++ Result: Draw +++
+
+Bulbasaur challenged Charmander
+Bulbasaur have: [Vitamins{HP +2, Attack +2, Special Attack +2}, Sword{Attack +3}, Wand{Special Attack +3}]
+Charmander have: [Cape{Special Defence +3}, Vest{HP +10}, Sword{Attack +3}]
+Bulbasaur HP: 48 Normal Attack: null Special Attack: 14 Defence: 7 Special Defence: 14 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Charmander HP: 63 Normal Attack: 10 Special Attack: null Defence: 6 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 45(Damage received: 3)
+	+Charmander HP: 57(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 42(Damage received: 3)
+	+Charmander HP: 51(Damage received: 6)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Charmander attack with ABILITY2
+	+Bulbasaur HP: 35(Damage received: 7)
+	+Charmander HP: 45(Damage received: 6)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [0]
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+Bulbasaur attack with ABILITY2 | Charmander attack with ABILITY1
+	+Bulbasaur HP: 31(Damage received: 4)
+	+Charmander HP: 40(Damage received: 5)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [3]
+* CoolDown Charmander: Ability1 [4] Ability2 [5]
+Bulbasaur is stunned | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 28(Damage received: 3)
+	+Charmander HP: 40(Damage received: 0)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [2]
+* CoolDown Charmander: Ability1 [3] Ability2 [4]
+Bulbasaur attack with SPECIAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 25(Damage received: 3)
+	+Charmander HP: 34(Damage received: 6)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [1]
+* CoolDown Charmander: Ability1 [2] Ability2 [3]
+Bulbasaur attack with SPECIAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 22(Damage received: 3)
+	+Charmander HP: 28(Damage received: 6)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Charmander: Ability1 [1] Ability2 [2]
+Bulbasaur attack with ABILITY2 | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 19(Damage received: 3)
+	+Charmander HP: 23(Damage received: 5)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Charmander: Ability1 [0] Ability2 [1]
+Bulbasaur attack with SPECIAL_ATTACK | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 16(Damage received: 3)
+	+Charmander HP: 17(Damage received: 6)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [2]
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Charmander attack with ABILITY1
+	+Bulbasaur HP: 12(Damage received: 4)
+	+Charmander HP: 11(Damage received: 6)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [1]
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+Bulbasaur is stunned | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: 9(Damage received: 3)
+	+Charmander HP: 11(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [0]
+* CoolDown Charmander: Ability1 [3] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Charmander attack with ABILITY2
+	+Bulbasaur HP: 2(Damage received: 7)
+	+Charmander HP: 5(Damage received: 6)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+* CoolDown Charmander: Ability1 [2] Ability2 [6]
+Bulbasaur attack with ABILITY2 | Charmander attack with NORMAL_ATTACK
+	+Bulbasaur HP: -1(Damage received: 3)
+	+Charmander HP: 0(Damage received: 5)
+
+		+++ Result: Draw +++
+
+===== Draw ====

@@ -1,0 +1,883 @@
+Charmander challenged Neutrel2
+Charmander have: [ChristmasTree{Attack +3, Defence +1}]
+Neutrel2 have: null
+Charmander HP: 50 Normal Attack: 7 Special Attack: null Defence: 4 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Charmander HP: 50(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Charmander HP: 50(Damage received: 0)
+	+Neutrel2 HP: 10(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Charmander HP: 50(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 6)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Charmander HP: 50(Damage received: 0)
+	+Neutrel2 HP: -3(Damage received: 7)
+
+		+++ Result: Win Charmander +++
+
+Eevee challenged Neutrel2
+Eevee have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Neutrel2 have: null
+Eevee HP: 39 Normal Attack: null Special Attack: 7 Defence: 5 Special Defence: 7 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 39(Damage received: 0)
+	+Neutrel2 HP: 15(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 39(Damage received: 0)
+	+Neutrel2 HP: 12(Damage received: 3)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Eevee: Ability1 [2] Ability2 [3]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Eevee HP: 39(Damage received: 0)
+	+Neutrel2 HP: 6(Damage received: 6)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Eevee: Ability1 [1] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Eevee attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Eevee HP: 39(Damage received: 0)
+	+Neutrel2 HP: 0(Damage received: 6)
+
+		+++ Result: Win Eevee +++
+
+Jigglypuff challenged Neutrel1
+Jigglypuff have: [Vest{HP +10}, Sword{Attack +3}, ChristmasTree{Attack +3, Defence +1}]
+Neutrel1 have: null
+Jigglypuff HP: 44 Normal Attack: 10 Special Attack: null Defence: 3 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=3, stun=true, dodge=false, coolDown=4}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 44(Damage received: 0)
+	+Neutrel1 HP: 7(Damage received: 3)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [4]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY1 | Neutrel1 is stunned
+	+Jigglypuff HP: 44(Damage received: 0)
+	+Neutrel1 HP: 3(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [3]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel1 is stunned
+	+Jigglypuff HP: 44(Damage received: 0)
+	+Neutrel1 HP: -6(Damage received: 9)
+
+		+++ Result: Win Jigglypuff +++
+
+Bulbasaur challenged Neutrel1
+Bulbasaur have: [Sword{Attack +3}, Shield{Defence +2, Special Defence +2}]
+Neutrel1 have: null
+Bulbasaur HP: 42 Normal Attack: null Special Attack: 5 Defence: 5 Special Defence: 5 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY2 | Neutrel1 attack with NORMAL_ATTACK
+	+Bulbasaur HP: 42(Damage received: 0)
+	+Neutrel1 HP: 5(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Neutrel1 attack with NORMAL_ATTACK
+	+Bulbasaur HP: 42(Damage received: 0)
+	+Neutrel1 HP: -1(Damage received: 6)
+
+		+++ Result: Win Bulbasaur +++
+
+Charmander challenged Squirtle
+Charmander have: [ChristmasTree{Attack +3, Defence +1}]
+Squirtle have: []
+Charmander HP: 51 Normal Attack: 8 Special Attack: null Defence: 5 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Squirtle HP: 60 Normal Attack: null Special Attack: 3 Defence: 5 Special Defence: 3 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 51(Damage received: 0)
+	+Squirtle HP: 53(Damage received: 7)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Squirtle attack with ABILITY2
+	+Charmander HP: 49(Damage received: 2)
+	+Squirtle HP: 49(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [5]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle is stunned
+	+Charmander HP: 49(Damage received: 0)
+	+Squirtle HP: 49(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 49(Damage received: 0)
+	+Squirtle HP: 46(Damage received: 3)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 47(Damage received: 2)
+	+Squirtle HP: 43(Damage received: 3)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 47(Damage received: 0)
+	+Squirtle HP: 43(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY1
+	+Charmander HP: 43(Damage received: 4)
+	+Squirtle HP: 40(Damage received: 3)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Charmander attack with ABILITY2 | Squirtle attack with ABILITY2
+	+Charmander HP: 41(Damage received: 2)
+	+Squirtle HP: 33(Damage received: 7)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+Charmander is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 41(Damage received: 0)
+	+Squirtle HP: 33(Damage received: 0)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [5]
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 41(Damage received: 0)
+	+Squirtle HP: 30(Damage received: 3)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY1
+	+Charmander HP: 37(Damage received: 4)
+	+Squirtle HP: 27(Damage received: 3)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [3]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 37(Damage received: 0)
+	+Squirtle HP: 24(Damage received: 3)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 35(Damage received: 2)
+	+Squirtle HP: 21(Damage received: 3)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [1]
+* CoolDown Squirtle: Ability1 [1] Ability2 [2]
+Charmander is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 35(Damage received: 0)
+	+Squirtle HP: 21(Damage received: 0)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Charmander attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 35(Damage received: 0)
+	+Squirtle HP: 14(Damage received: 7)
+
+=====================!!! Round 16 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Squirtle attack with ABILITY1
+	+Charmander HP: 31(Damage received: 4)
+	+Squirtle HP: 10(Damage received: 4)
+
+=====================!!! Round 17 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [5]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle is stunned
+	+Charmander HP: 31(Damage received: 0)
+	+Squirtle HP: 7(Damage received: 3)
+
+=====================!!! Round 18 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [4]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 31(Damage received: 0)
+	+Squirtle HP: 4(Damage received: 3)
+
+=====================!!! Round 19 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [3]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 31(Damage received: 0)
+	+Squirtle HP: 1(Damage received: 3)
+
+=====================!!! Round 20 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 29(Damage received: 2)
+	+Squirtle HP: -2(Damage received: 3)
+
+		+++ Result: Win Charmander +++
+
+Psyduck challenged Neutrel2
+Psyduck have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}, Vest{HP +10}]
+Neutrel2 have: null
+Psyduck HP: 53 Normal Attack: 9 Special Attack: null Defence: 4 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Psyduck HP: 53(Damage received: 0)
+	+Neutrel2 HP: 12(Damage received: 8)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Psyduck HP: 53(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 8)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Psyduck HP: 53(Damage received: 0)
+	+Neutrel2 HP: 2(Damage received: 2)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Neutrel2 is stunned
+	+Psyduck HP: 53(Damage received: 0)
+	+Neutrel2 HP: -6(Damage received: 8)
+
+		+++ Result: Win Psyduck +++
+
+Squirtle challenged Neutrel2
+Squirtle have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}]
+Neutrel2 have: null
+Squirtle HP: 60 Normal Attack: null Special Attack: 6 Defence: 7 Special Defence: 6 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+Neutrel2 HP: 20 Normal Attack: 4 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 16(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY2 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 14(Damage received: 2)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with SPECIAL_ATTACK | Neutrel2 is stunned
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 9(Damage received: 5)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with SPECIAL_ATTACK | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 4(Damage received: 5)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel2: Ability1 [0] Ability2 [0]
+Squirtle attack with ABILITY1 | Neutrel2 attack with NORMAL_ATTACK
+	+Squirtle HP: 60(Damage received: 0)
+	+Neutrel2 HP: 0(Damage received: 4)
+
+		+++ Result: Win Squirtle +++
+
+Jigglypuff challenged Neutrel1
+Jigglypuff have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}]
+Neutrel1 have: null
+Jigglypuff HP: 35 Normal Attack: 11 Special Attack: null Defence: 4 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=3, stun=true, dodge=false, coolDown=4}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY1 | Neutrel1 attack with NORMAL_ATTACK
+	+Jigglypuff HP: 35(Damage received: 0)
+	+Neutrel1 HP: 6(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY2 | Neutrel1 is stunned
+	+Jigglypuff HP: 35(Damage received: 0)
+	+Neutrel1 HP: 3(Damage received: 3)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [4]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Neutrel1 is stunned
+	+Jigglypuff HP: 35(Damage received: 0)
+	+Neutrel1 HP: -7(Damage received: 10)
+
+		+++ Result: Win Jigglypuff +++
+
+Bulbasaur challenged Neutrel1
+Bulbasaur have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Neutrel1 have: null
+Bulbasaur HP: 43 Normal Attack: null Special Attack: 9 Defence: 6 Special Defence: 9 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+Neutrel1 HP: 10 Normal Attack: 3 Special Attack: null Defence: 1 Special Defence: null null null
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Bulbasaur attack with ABILITY1 | Neutrel1 attack with NORMAL_ATTACK
+	+Bulbasaur HP: 43(Damage received: 0)
+	+Neutrel1 HP: 4(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+* CoolDown Neutrel1: Ability1 [0] Ability2 [0]
+Bulbasaur attack with SPECIAL_ATTACK | Neutrel1 attack with NORMAL_ATTACK
+	+Bulbasaur HP: 43(Damage received: 0)
+	+Neutrel1 HP: -4(Damage received: 8)
+
+		+++ Result: Win Bulbasaur +++
+
+Charmander challenged Eevee
+Charmander have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}, Vest{HP +10}]
+Eevee have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Charmander HP: 62 Normal Attack: 12 Special Attack: null Defence: 6 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Eevee HP: 40 Normal Attack: null Special Attack: 8 Defence: 6 Special Defence: 8 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 58(Damage received: 4)
+	+Eevee HP: 34(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Eevee attack with ABILITY1
+	+Charmander HP: 53(Damage received: 5)
+	+Eevee HP: 30(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+Charmander attack with ABILITY2 | Eevee is stunned
+	+Charmander HP: 53(Damage received: 0)
+	+Eevee HP: 23(Damage received: 7)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [6]
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 49(Damage received: 4)
+	+Eevee HP: 17(Damage received: 6)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [5]
+* CoolDown Eevee: Ability1 [1] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with ABILITY2
+	+Charmander HP: 46(Damage received: 3)
+	+Eevee HP: 11(Damage received: 6)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [4]
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+Charmander is stunned | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 42(Damage received: 4)
+	+Eevee HP: 11(Damage received: 0)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [3]
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+Charmander attack with ABILITY1 | Eevee attack with ABILITY1
+	+Charmander HP: 37(Damage received: 5)
+	+Eevee HP: 7(Damage received: 4)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [2]
+* CoolDown Eevee: Ability1 [3] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Eevee is stunned
+	+Charmander HP: 37(Damage received: 0)
+	+Eevee HP: 1(Damage received: 6)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [1]
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Charmander HP: 33(Damage received: 4)
+	+Eevee HP: -5(Damage received: 6)
+
+		+++ Result: Win Charmander +++
+
+Jigglypuff challenged Bulbasaur
+Jigglypuff have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}, Vest{HP +10}]
+Bulbasaur have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Jigglypuff HP: 46 Normal Attack: 12 Special Attack: null Defence: 5 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=3, stun=true, dodge=false, coolDown=4}
+Bulbasaur HP: 44 Normal Attack: null Special Attack: 10 Defence: 7 Special Defence: 10 Ability{damage=6, stun=false, dodge=false, coolDown=4} Ability{damage=5, stun=false, dodge=false, coolDown=3}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [0]
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [0]
+Jigglypuff attack with ABILITY2 | Bulbasaur attack with ABILITY1
+	+Jigglypuff HP: 40(Damage received: 6)
+	+Bulbasaur HP: 41(Damage received: 3)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [4]
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Bulbasaur is stunned
+	+Jigglypuff HP: 40(Damage received: 0)
+	+Bulbasaur HP: 36(Damage received: 5)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [3]
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [0]
+Jigglypuff attack with ABILITY1 | Bulbasaur attack with SPECIAL_ATTACK
+	+Jigglypuff HP: 35(Damage received: 5)
+	+Bulbasaur HP: 32(Damage received: 4)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Jigglypuff: Ability1 [4] Ability2 [2]
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Bulbasaur is stunned
+	+Jigglypuff HP: 35(Damage received: 0)
+	+Bulbasaur HP: 27(Damage received: 5)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Jigglypuff: Ability1 [3] Ability2 [1]
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Bulbasaur attack with ABILITY2
+	+Jigglypuff HP: 30(Damage received: 5)
+	+Bulbasaur HP: 22(Damage received: 5)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Jigglypuff: Ability1 [2] Ability2 [0]
+* CoolDown Bulbasaur: Ability1 [0] Ability2 [3]
+Jigglypuff attack with ABILITY2 | Bulbasaur attack with ABILITY1
+	+Jigglypuff HP: 24(Damage received: 6)
+	+Bulbasaur HP: 19(Damage received: 3)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Jigglypuff: Ability1 [1] Ability2 [4]
+* CoolDown Bulbasaur: Ability1 [4] Ability2 [2]
+Jigglypuff attack with NORMAL_ATTACK | Bulbasaur is stunned
+	+Jigglypuff HP: 24(Damage received: 0)
+	+Bulbasaur HP: 14(Damage received: 5)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [3]
+* CoolDown Bulbasaur: Ability1 [3] Ability2 [1]
+Jigglypuff attack with NORMAL_ATTACK | Bulbasaur attack with SPECIAL_ATTACK
+	+Jigglypuff HP: 19(Damage received: 5)
+	+Bulbasaur HP: 9(Damage received: 5)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [2]
+* CoolDown Bulbasaur: Ability1 [2] Ability2 [0]
+Jigglypuff attack with NORMAL_ATTACK | Bulbasaur attack with SPECIAL_ATTACK
+	+Jigglypuff HP: 14(Damage received: 5)
+	+Bulbasaur HP: 4(Damage received: 5)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Jigglypuff: Ability1 [0] Ability2 [1]
+* CoolDown Bulbasaur: Ability1 [1] Ability2 [0]
+Jigglypuff attack with ABILITY1 | Bulbasaur attack with SPECIAL_ATTACK
+	+Jigglypuff HP: 9(Damage received: 5)
+	+Bulbasaur HP: 0(Damage received: 4)
+
+		+++ Result: Win Jigglypuff +++
+
+Charmander challenged Squirtle
+Charmander have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}, Vest{HP +10}]
+Squirtle have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Charmander HP: 63 Normal Attack: 13 Special Attack: null Defence: 7 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Squirtle HP: 61 Normal Attack: null Special Attack: 7 Defence: 8 Special Defence: 7 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 61(Damage received: 2)
+	+Squirtle HP: 56(Damage received: 5)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with ABILITY1 | Squirtle attack with ABILITY2
+	+Charmander HP: 59(Damage received: 2)
+	+Squirtle HP: 52(Damage received: 4)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle is stunned
+	+Charmander HP: 59(Damage received: 0)
+	+Squirtle HP: 52(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Charmander attack with ABILITY2 | Squirtle attack with ABILITY1
+	+Charmander HP: 55(Damage received: 4)
+	+Squirtle HP: 45(Damage received: 7)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [6]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 53(Damage received: 2)
+	+Squirtle HP: 40(Damage received: 5)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [5]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 51(Damage received: 2)
+	+Squirtle HP: 35(Damage received: 5)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [4]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Charmander attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 49(Damage received: 2)
+	+Squirtle HP: 31(Damage received: 4)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle is stunned
+	+Charmander HP: 49(Damage received: 0)
+	+Squirtle HP: 26(Damage received: 5)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [2]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 47(Damage received: 2)
+	+Squirtle HP: 21(Damage received: 5)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [1]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle attack with ABILITY1
+	+Charmander HP: 43(Damage received: 4)
+	+Squirtle HP: 21(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Charmander attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 41(Damage received: 2)
+	+Squirtle HP: 14(Damage received: 7)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 39(Damage received: 2)
+	+Squirtle HP: 9(Damage received: 5)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [5]
+* CoolDown Squirtle: Ability1 [1] Ability2 [0]
+Charmander attack with ABILITY1 | Squirtle attack with ABILITY2
+	+Charmander HP: 37(Damage received: 2)
+	+Squirtle HP: 5(Damage received: 4)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle is stunned
+	+Charmander HP: 37(Damage received: 0)
+	+Squirtle HP: 5(Damage received: 0)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [3]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 35(Damage received: 2)
+	+Squirtle HP: 0(Damage received: 5)
+
+		+++ Result: Win Charmander +++
+
+Psyduck challenged Eevee
+Psyduck have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}, Vest{HP +10}]
+Eevee have: [Shield{Defence +2, Special Defence +2}, Wand{Special Attack +3}]
+Psyduck HP: 54 Normal Attack: 10 Special Attack: null Defence: 5 Special Defence: null Ability{damage=2, stun=false, dodge=false, coolDown=4} Ability{damage=2, stun=true, dodge=false, coolDown=5}
+Eevee HP: 40 Normal Attack: null Special Attack: 8 Defence: 6 Special Defence: 8 Ability{damage=5, stun=false, dodge=false, coolDown=3} Ability{damage=3, stun=true, dodge=false, coolDown=3}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with ABILITY1
+	+Psyduck HP: 49(Damage received: 5)
+	+Eevee HP: 36(Damage received: 4)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+Psyduck attack with ABILITY2 | Eevee attack with SPECIAL_ATTACK
+	+Psyduck HP: 45(Damage received: 4)
+	+Eevee HP: 34(Damage received: 2)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+* CoolDown Eevee: Ability1 [2] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Eevee is stunned
+	+Psyduck HP: 45(Damage received: 0)
+	+Eevee HP: 30(Damage received: 4)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+* CoolDown Eevee: Ability1 [1] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Psyduck HP: 41(Damage received: 4)
+	+Eevee HP: 26(Damage received: 4)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [3]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Psyduck attack with ABILITY1 | Eevee attack with ABILITY1
+	+Psyduck HP: 36(Damage received: 5)
+	+Eevee HP: 24(Damage received: 2)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Psyduck: Ability1 [4] Ability2 [2]
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with ABILITY2
+	+Psyduck HP: 33(Damage received: 3)
+	+Eevee HP: 20(Damage received: 4)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Psyduck: Ability1 [3] Ability2 [1]
+* CoolDown Eevee: Ability1 [2] Ability2 [3]
+Psyduck is stunned | Eevee attack with SPECIAL_ATTACK
+	+Psyduck HP: 29(Damage received: 4)
+	+Eevee HP: 20(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Psyduck: Ability1 [2] Ability2 [0]
+* CoolDown Eevee: Ability1 [1] Ability2 [2]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Psyduck HP: 25(Damage received: 4)
+	+Eevee HP: 16(Damage received: 4)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Psyduck: Ability1 [1] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Psyduck HP: 21(Damage received: 4)
+	+Eevee HP: 12(Damage received: 4)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [0]
+* CoolDown Eevee: Ability1 [0] Ability2 [0]
+Psyduck attack with ABILITY2 | Eevee attack with ABILITY2
+	+Psyduck HP: 18(Damage received: 3)
+	+Eevee HP: 10(Damage received: 2)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [5]
+* CoolDown Eevee: Ability1 [0] Ability2 [3]
+Psyduck is stunned | Eevee is stunned
+	+Psyduck HP: 18(Damage received: 0)
+	+Eevee HP: 10(Damage received: 0)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [4]
+* CoolDown Eevee: Ability1 [0] Ability2 [2]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with SPECIAL_ATTACK
+	+Psyduck HP: 14(Damage received: 4)
+	+Eevee HP: 6(Damage received: 4)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [3]
+* CoolDown Eevee: Ability1 [0] Ability2 [1]
+Psyduck attack with NORMAL_ATTACK | Eevee attack with ABILITY1
+	+Psyduck HP: 9(Damage received: 5)
+	+Eevee HP: 2(Damage received: 4)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Psyduck: Ability1 [0] Ability2 [2]
+* CoolDown Eevee: Ability1 [3] Ability2 [0]
+Psyduck attack with ABILITY1 | Eevee attack with ABILITY2
+	+Psyduck HP: 6(Damage received: 3)
+	+Eevee HP: 0(Damage received: 2)
+
+		+++ Result: Win Psyduck +++
+
+Charmander challenged Squirtle
+Charmander have: [ChristmasTree{Attack +3, Defence +1}, Sword{Attack +3}, Vest{HP +10}]
+Squirtle have: [Wand{Special Attack +3}, Shield{Defence +2, Special Defence +2}, Sword{Attack +3}]
+Charmander HP: 64 Normal Attack: 14 Special Attack: null Defence: 8 Special Defence: null Ability{damage=4, stun=true, dodge=false, coolDown=4} Ability{damage=7, stun=false, dodge=false, coolDown=6}
+Squirtle HP: 61 Normal Attack: null Special Attack: 7 Defence: 8 Special Defence: 7 Ability{damage=4, stun=false, dodge=false, coolDown=3} Ability{damage=2, stun=true, dodge=false, coolDown=2}
+
+=====================!!! Round 1 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY1
+	+Charmander HP: 60(Damage received: 4)
+	+Squirtle HP: 55(Damage received: 6)
+
+=====================!!! Round 2 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 58(Damage received: 2)
+	+Squirtle HP: 49(Damage received: 6)
+
+=====================!!! Round 3 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [2]
+Charmander is stunned | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 57(Damage received: 1)
+	+Squirtle HP: 49(Damage received: 0)
+
+=====================!!! Round 4 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [1] Ability2 [1]
+Charmander attack with ABILITY2 | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 56(Damage received: 1)
+	+Squirtle HP: 42(Damage received: 7)
+
+=====================!!! Round 5 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [6]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 55(Damage received: 1)
+	+Squirtle HP: 36(Damage received: 6)
+
+=====================!!! Round 6 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [5]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 53(Damage received: 2)
+	+Squirtle HP: 30(Damage received: 6)
+
+=====================!!! Round 7 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [4]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle attack with ABILITY1
+	+Charmander HP: 49(Damage received: 4)
+	+Squirtle HP: 30(Damage received: 0)
+
+=====================!!! Round 8 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [3]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 48(Damage received: 1)
+	+Squirtle HP: 24(Damage received: 6)
+
+=====================!!! Round 9 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [2]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Charmander attack with ABILITY1 | Squirtle attack with ABILITY2
+	+Charmander HP: 46(Damage received: 2)
+	+Squirtle HP: 20(Damage received: 4)
+
+=====================!!! Round 10 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [1]
+* CoolDown Squirtle: Ability1 [1] Ability2 [2]
+Charmander is stunned | Squirtle is stunned
+	+Charmander HP: 46(Damage received: 0)
+	+Squirtle HP: 20(Damage received: 0)
+
+=====================!!! Round 11 !!!=====================
+* CoolDown Charmander: Ability1 [3] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [1]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 45(Damage received: 1)
+	+Squirtle HP: 14(Damage received: 6)
+
+=====================!!! Round 12 !!!=====================
+* CoolDown Charmander: Ability1 [2] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle attack with ABILITY2
+	+Charmander HP: 43(Damage received: 2)
+	+Squirtle HP: 8(Damage received: 6)
+
+=====================!!! Round 13 !!!=====================
+* CoolDown Charmander: Ability1 [1] Ability2 [0]
+* CoolDown Squirtle: Ability1 [0] Ability2 [2]
+Charmander is stunned | Squirtle attack with ABILITY1
+	+Charmander HP: 39(Damage received: 4)
+	+Squirtle HP: 8(Damage received: 0)
+
+=====================!!! Round 14 !!!=====================
+* CoolDown Charmander: Ability1 [0] Ability2 [0]
+* CoolDown Squirtle: Ability1 [3] Ability2 [1]
+Charmander attack with ABILITY1 | Squirtle attack with SPECIAL_ATTACK
+	+Charmander HP: 38(Damage received: 1)
+	+Squirtle HP: 4(Damage received: 4)
+
+=====================!!! Round 15 !!!=====================
+* CoolDown Charmander: Ability1 [4] Ability2 [0]
+* CoolDown Squirtle: Ability1 [2] Ability2 [0]
+Charmander attack with NORMAL_ATTACK | Squirtle is stunned
+	+Charmander HP: 38(Damage received: 0)
+	+Squirtle HP: -2(Damage received: 6)
+
+		+++ Result: Win Charmander +++
+
+Winner of all adventure is: Gray with pokemon: Charmander
